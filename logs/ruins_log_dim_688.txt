@@ -1,5 +1,35 @@
+Did not find any Building data for .\config\ruins_config\corrupted_sands, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\snowy_coniferous_forest, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\twilight_clearing, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\void, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\snowy_tundra, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\jungle_hills, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\woodland, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\marsh, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\mesa, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\steppe, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\eldritch, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\emptiness, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\mutated_ice_flats, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\tundra, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\orchard, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\jungle_edge, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\bayou, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\savanna_rock, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\twilight_lake, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\fire_swamp, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\coniferous_forest, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\eucalyptus_forest, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\dangerous_black_void, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\mesa_rock, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\volcanic_island, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\deep_mushroom_forest, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\tropical_rainforest, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\ruthless_sands, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\xeric_shrubland, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\swampland, creating empty folder for it: success
 
-Loading options from: C:\Users\Arhidontos\AppData\Roaming\.minecraft\Server\world\DIM688
+Loading options from: D:\MC-Server\KavoAndSho 1.12.2\world\DIM688
 tries_per_chunk_normal = 6
 chance_to_spawn_normal = 10.0
 templateInstancesMinDistance = 256.0

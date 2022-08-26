@@ -1,5 +1,26 @@
+Did not find any Building data for .\config\ruins_config\black_void, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\mushroom_forest, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\stygian_growth, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\mutated_mesa_clear_rock, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\alps_foothills, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\glacier, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\river, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\origin_island, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\maple_woods, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\mutated_desert, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\ominous_woods, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\grassland, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\taiga, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\cold_desert, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\flower_field, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\boreal_forest, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\highland, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\stone_beach, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\cherry_blossom_grove, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\dark_forest_center, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\twilight_glacier, creating empty folder for it: failed
 
-Loading options from: C:\Users\Arhidontos\AppData\Roaming\.minecraft\Server\world\DIM687
+Loading options from: D:\MC-Server\KavoAndSho 1.12.2\world\DIM687
 tries_per_chunk_normal = 6
 chance_to_spawn_normal = 10.0
 templateInstancesMinDistance = 256.0
