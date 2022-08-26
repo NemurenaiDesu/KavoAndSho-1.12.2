@@ -1,25 +1,3 @@
-Did not find any Building data for .\config\ruins_config\stygian_growth, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\alps, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\twilight_highlands, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\alps_foothills, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\eerie, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\mutated_savanna_rock, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\outback, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\ice_mountains, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\redwood_forest_edge, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\chaparral, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\flower_island, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\orchard, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\savanna, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\redwood_taiga, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\boreal_forest, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\eucalyptus_forest, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\spooky_forest, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\emptiness_highlands, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\forest_hills, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\visceral_heap, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\cherry_blossom_grove, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\mutated_birch_forest, creating empty folder for it: success
 
 Loading options from: D:\MC-Server\KavoAndSho 1.12.2\world\DIM7
 tries_per_chunk_normal = 6

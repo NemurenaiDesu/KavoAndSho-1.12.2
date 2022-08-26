@@ -1,27 +1,3 @@
-Did not find any Building data for .\config\ruins_config\mutated_mesa, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\wetland, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\void, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\stygian_growth, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\mutated_savanna_rock, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\mutated_redwood_taiga, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\cold_beach, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\mutated_forest, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\mutated_extreme_hills_with_trees, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\mutated_roofed_forest, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\mushroom_island, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\chaparral, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\mutated_savanna, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\mutated_desert, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\tainted_lands, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\oak_savannah, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\highland, creating empty folder for it: failed
-Did not find any Building data for .\config\ruins_config\extreme_hills, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\twilight_stream, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\smaller_extreme_hills, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\twilight_forest, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\magical_forest, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\acidic_plains, creating empty folder for it: success
-Did not find any Building data for .\config\ruins_config\ruthless_sands, creating empty folder for it: failed
 
 Loading options from: D:\MC-Server\KavoAndSho 1.12.2\world\DIM684
 tries_per_chunk_normal = 6
