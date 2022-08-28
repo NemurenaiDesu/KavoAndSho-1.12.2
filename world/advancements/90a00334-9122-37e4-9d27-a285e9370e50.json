@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2022-08-28 16:16:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2022-08-20 11:19:27 +0300"
@@ -179,9 +185,21 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-08-28 21:31:27 +0300"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/palm_fence_gate": {
     "criteria": {
       "has_planks": "2022-08-20 12:01:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2022-08-28 14:56:11 +0300"
     },
     "done": true
   },
@@ -194,6 +212,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2022-08-20 11:30:34 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/magic_planks": {
+    "criteria": {
+      "has_log": "2022-08-28 22:29:15 +0300"
     },
     "done": true
   },
@@ -266,6 +290,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2022-08-20 12:14:29 +0300"
+    },
+    "done": true
+  },
+  "extrabotany:main/manareadercraft": {
+    "criteria": {
+      "ebt_trigger": "2022-08-28 21:50:19 +0300"
     },
     "done": true
   },
@@ -437,6 +467,12 @@
     },
     "done": true
   },
+  "botania:main/ender_air_make": {
+    "criteria": {
+      "air": "2022-08-28 19:21:02 +0300"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2022-08-20 11:47:24 +0300",
@@ -462,9 +498,11 @@
       "woodland": "2022-08-20 20:47:11 +0300",
       "shrubland": "2022-08-20 12:28:49 +0300",
       "steppe": "2022-08-20 20:03:59 +0300",
+      "alps_foothills": "2022-08-28 20:12:31 +0300",
       "bayou": "2022-08-20 19:26:01 +0300",
       "phantasmagoric_inferno": "2022-08-22 21:09:46 +0300",
       "overgrown_cliffs": "2022-08-26 19:55:10 +0300",
+      "highland": "2022-08-28 20:49:42 +0300",
       "quagmire": "2022-08-20 21:32:16 +0300",
       "chaparral": "2022-08-20 11:24:01 +0300",
       "cold_desert": "2022-08-20 18:22:29 +0300",
@@ -494,6 +532,7 @@
       "fungi_forest": "2022-08-20 15:31:48 +0300",
       "grassland": "2022-08-20 20:01:55 +0300",
       "prairie": "2022-08-20 20:27:58 +0300",
+      "snowy_coniferous_forest": "2022-08-28 20:22:59 +0300",
       "tundra": "2022-08-20 12:39:34 +0300",
       "undergarden": "2022-08-22 22:08:39 +0300",
       "gravel_beach": "2022-08-19 01:11:29 +0300",
@@ -603,6 +642,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2022-08-28 19:20:36 +0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2022-08-20 11:33:18 +0300"
@@ -633,6 +678,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2022-08-28 19:23:37 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2022-08-20 14:46:38 +0300"
@@ -651,9 +702,11 @@
       "skeleton": "2022-08-20 14:41:41 +0300",
       "zombie": "2022-08-20 11:36:21 +0300",
       "cave_spider": "2022-08-24 22:17:19 +0300",
+      "witch": "2022-08-28 18:23:53 +0300",
       "spider": "2022-08-20 11:47:46 +0300",
       "ghast": "2022-08-23 00:50:57 +0300",
-      "creeper": "2022-08-20 15:30:54 +0300"
+      "creeper": "2022-08-20 15:30:54 +0300",
+      "enderman": "2022-08-28 19:55:11 +0300"
     },
     "done": false
   },
@@ -753,6 +806,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2022-08-28 19:06:59 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-20 17:05:58 +0300"
@@ -792,6 +851,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2022-08-28 00:53:33 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-08-28 19:18:37 +0300"
     },
     "done": true
   },
@@ -1287,6 +1352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2022-08-28 15:56:33 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2022-08-20 11:30:00 +0300"
@@ -1404,6 +1475,18 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_at_least_9_diamond": "2022-08-20 14:47:01 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/ebony_door": {
+    "criteria": {
+      "has_planks": "2022-08-28 14:02:36 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/ebony_fence": {
+    "criteria": {
+      "has_planks": "2022-08-28 14:02:36 +0300"
     },
     "done": true
   },
@@ -1749,6 +1832,12 @@
     },
     "done": true
   },
+  "botania:main/elf_portal_open": {
+    "criteria": {
+      "portal": "2022-08-28 15:37:07 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2022-08-20 11:47:24 +0300"
@@ -1770,6 +1859,7 @@
       "pumpkin_pie": "2022-08-24 01:22:51 +0300",
       "mutton": "2022-08-27 01:26:34 +0300",
       "bread": "2022-08-20 12:09:12 +0300",
+      "golden_apple": "2022-08-28 19:20:30 +0300",
       "rotten_flesh": "2022-08-20 11:43:01 +0300",
       "cooked_chicken": "2022-08-20 15:36:26 +0300",
       "mushroom_stew": "2022-08-27 01:19:38 +0300",
@@ -1946,6 +2036,12 @@
     },
     "done": true
   },
+  "botania:main/terrasteel_pickup": {
+    "criteria": {
+      "terrasteel": "2022-08-28 15:08:10 +0300"
+    },
+    "done": true
+  },
   "twilightforest:alt/biomes/twilight_forest": {
     "criteria": {
       "discover": "2022-08-24 20:43:39 +0300"
@@ -1955,6 +2051,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-25 00:18:19 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/ebony_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-08-28 14:02:36 +0300"
     },
     "done": true
   },
@@ -2306,6 +2408,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/ebony_wooden_slab": {
+    "criteria": {
+      "has_planks": "2022-08-28 14:02:36 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2022-08-20 14:46:38 +0300"
@@ -2315,6 +2423,12 @@
   "biomesoplenty:recipes/transportation/boat_palm": {
     "criteria": {
       "entered_water": "2022-08-20 11:16:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2022-08-28 18:10:21 +0300"
     },
     "done": true
   },
@@ -2411,6 +2525,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2022-08-24 00:25:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2022-08-28 19:18:54 +0300"
     },
     "done": true
   },
@@ -2546,6 +2666,12 @@
     },
     "done": true
   },
+  "endreborn:endreborn/end_stone": {
+    "criteria": {
+      "elytra": "2022-08-28 19:18:54 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2022-08-20 12:41:50 +0300"
@@ -2573,6 +2699,12 @@
   "biomesoplenty:recipes/transportation/boat_ebony": {
     "criteria": {
       "entered_water": "2022-08-20 11:16:22 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/ebony_stairs": {
+    "criteria": {
+      "has_planks": "2022-08-28 14:02:36 +0300"
     },
     "done": true
   },
@@ -2621,6 +2753,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2022-08-20 13:53:59 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2022-08-28 19:56:05 +0300"
     },
     "done": true
   },
@@ -2720,6 +2858,12 @@
     },
     "done": true
   },
+  "botania:main/spark_craft": {
+    "criteria": {
+      "spark": "2022-08-28 15:06:09 +0300"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_willow": {
     "criteria": {
       "entered_water": "2022-08-20 11:16:22 +0300"
@@ -2764,6 +2908,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-08-28 18:18:45 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2022-08-20 12:23:44 +0300"
@@ -2794,6 +2944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2022-08-28 16:16:21 +0300"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_jacaranda": {
     "criteria": {
       "entered_water": "2022-08-20 11:16:22 +0300"
@@ -2815,6 +2971,18 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-25 00:18:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-08-28 19:18:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2022-08-28 16:16:21 +0300"
     },
     "done": true
   },

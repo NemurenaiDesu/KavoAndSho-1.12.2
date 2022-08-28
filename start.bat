@@ -7,6 +7,7 @@ echo Updating local files...
 echo:
 git pull origin master
 
+TIMEOUT /T 5
 
 echo:
 echo:

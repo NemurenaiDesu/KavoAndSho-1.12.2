@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-08-28 20:07:05 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_sand": "2022-08-20 14:13:22 +0300"
@@ -194,6 +200,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2022-08-20 11:57:47 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/magic_planks": {
+    "criteria": {
+      "has_log": "2022-08-28 22:02:54 +0300"
     },
     "done": true
   },
@@ -254,6 +266,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2022-08-20 11:33:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2022-08-28 15:39:21 +0300"
     },
     "done": true
   },
@@ -413,6 +431,12 @@
     },
     "done": true
   },
+  "botania:main/ender_air_make": {
+    "criteria": {
+      "air": "2022-08-28 19:21:03 +0300"
+    },
+    "done": true
+  },
   "sereneseasons:recipes/tools/season_clock": {
     "criteria": {
       "has_redstone": "2022-08-20 12:08:52 +0300"
@@ -440,27 +464,34 @@
       "white_beach": "2022-08-25 16:27:22 +0300",
       "xeric_shrubland": "2022-08-23 15:40:40 +0300",
       "steppe": "2022-08-20 20:04:04 +0300",
+      "alps_foothills": "2022-08-28 19:42:49 +0300",
+      "fen": "2022-08-28 21:22:40 +0300",
       "bayou": "2022-08-20 19:25:50 +0300",
       "phantasmagoric_inferno": "2022-08-22 16:43:22 +0300",
       "mountain": "2022-08-23 18:58:50 +0300",
       "overgrown_cliffs": "2022-08-25 22:19:44 +0300",
       "highland": "2022-08-23 15:52:34 +0300",
+      "volcanic_island": "2022-08-28 21:19:16 +0300",
       "quagmire": "2022-08-20 21:14:26 +0300",
       "marsh": "2022-08-23 16:40:13 +0300",
       "chaparral": "2022-08-20 11:21:26 +0300",
       "flower_island": "2022-08-23 16:06:41 +0300",
+      "wetland": "2022-08-28 16:50:47 +0300",
+      "mystic_grove": "2022-08-28 22:02:12 +0300",
       "cold_desert": "2022-08-20 13:11:10 +0300",
       "mountain_foothills": "2022-08-20 22:51:01 +0300",
       "maple_woods": "2022-08-20 16:52:05 +0300",
       "coral_reef": "2022-08-20 11:24:07 +0300",
       "orchard": "2022-08-20 20:01:17 +0300",
       "moor": "2022-08-23 18:09:47 +0300",
+      "land_of_lakes": "2022-08-28 21:22:01 +0300",
       "bog": "2022-08-23 16:59:44 +0300",
       "coniferous_forest": "2022-08-23 17:05:37 +0300",
       "outback": "2022-08-23 22:22:01 +0300",
       "shield": "2022-08-23 17:16:45 +0300",
       "wasteland": "2022-08-20 20:17:05 +0300",
       "mangrove": "2022-08-20 14:38:19 +0300",
+      "lush_desert": "2022-08-28 18:59:14 +0300",
       "boreal_forest": "2022-08-20 20:03:29 +0300",
       "redwood_forest": "2022-08-20 19:03:09 +0300",
       "visceral_heap": "2022-08-20 15:16:15 +0300",
@@ -487,6 +518,7 @@
       "lavender_fields": "2022-08-20 19:05:35 +0300",
       "rainforest": "2022-08-20 22:16:48 +0300",
       "sacred_springs": "2022-08-25 20:18:27 +0300",
+      "crag": "2022-08-28 21:22:22 +0300",
       "brushland": "2022-08-20 19:44:06 +0300",
       "ominous_woods": "2022-08-20 21:33:36 +0300"
     },
@@ -594,6 +626,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2022-08-28 19:21:16 +0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2022-08-20 11:32:26 +0300"
@@ -624,13 +662,22 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2022-08-28 15:39:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2022-08-26 22:30:04 +0300",
+      "shulker": "2022-08-28 20:05:49 +0300",
       "wither_skeleton": "2022-08-22 17:05:34 +0300",
       "zombie_villager": "2022-08-20 22:52:31 +0300",
       "magma_cube": "2022-08-22 22:19:22 +0300",
+      "vindicator": "2022-08-28 22:20:25 +0300",
       "skeleton": "2022-08-20 12:32:54 +0300",
+      "husk": "2022-08-28 18:48:23 +0300",
       "blaze": "2022-08-22 17:05:50 +0300",
       "silverfish": "2022-08-20 15:07:11 +0300",
       "zombie": "2022-08-20 11:32:26 +0300",
@@ -748,6 +795,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2022-08-22 17:05:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-08-28 19:18:38 +0300"
     },
     "done": true
   },
@@ -1149,6 +1202,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2022-08-28 20:06:29 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2022-08-20 11:56:48 +0300"
@@ -1227,6 +1286,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2022-08-28 21:59:32 +0300"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/hellbark_stairs": {
     "criteria": {
       "has_planks": "2022-08-22 22:41:23 +0300"
@@ -1248,6 +1313,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2022-08-23 13:32:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2022-08-28 19:24:42 +0300"
     },
     "done": true
   },
@@ -1278,6 +1349,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2022-08-25 15:09:59 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2022-08-28 20:07:04 +0300"
     },
     "done": true
   },
@@ -1603,6 +1680,18 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2022-08-20 12:08:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2022-08-28 19:06:53 +0300"
+    },
+    "done": true
+  },
+  "endreborn:endreborn/dragon_scales": {
+    "criteria": {
+      "elytra": "2022-08-28 19:23:41 +0300"
     },
     "done": true
   },
@@ -2128,6 +2217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2022-08-28 19:24:34 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2022-08-20 11:43:00 +0300"
@@ -2236,6 +2331,12 @@
     },
     "done": true
   },
+  "endreborn:endreborn/end_stone": {
+    "criteria": {
+      "elytra": "2022-08-28 19:24:34 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2022-08-20 11:57:11 +0300"
@@ -2296,6 +2397,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2022-08-28 20:05:25 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_magma_cream": "2022-08-26 14:44:43 +0300"
@@ -2323,6 +2430,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2022-08-20 13:45:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2022-08-28 19:38:44 +0300"
     },
     "done": true
   },
@@ -2383,6 +2496,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2022-08-20 12:08:13 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/celestial_crystal": {
+    "criteria": {
+      "has_item": "2022-08-28 19:23:03 +0300"
     },
     "done": true
   },
@@ -2475,6 +2594,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2022-08-22 17:05:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-08-28 19:18:38 +0300"
     },
     "done": true
   },

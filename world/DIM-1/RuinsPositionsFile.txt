@@ -30,12 +30,14 @@
 -832 58 -665 -827 64 -660 CaveSpiderBurrow.tml
 -829 40 -582 -822 49 -575 Outcrop.tml
 -772 21 31 -762 26 41 RuinedSmallFountainDiagonal.tml
--733 128 131 -720 160 144 OreSpire.tml
 -733 60 -538 -731 64 -535 SkeletonHeadStatue.tml
+-733 128 131 -720 160 144 OreSpire.tml
 -728 50 -131 -721 59 -124 Outcrop.tml
 -726 126 9 -719 129 14 Melonfield.tml
 -721 126 -702 -701 140 -682 Altar.tml
 -708 126 -770 -704 132 -767 StonePillar.tml
+-681 126 -1078 -676 131 -1071 ZombieHut.tml
+-667 30 -1033 -655 35 -1021 AncientFountain.tml
 -653 127 5 -642 135 13 MinersHut.tml
 -640 128 207 -636 130 211 EmeraldOreOutcrop.tml
 -622 126 -1334 -612 131 -1324 RuinedSmallFountainDiagonal.tml
@@ -61,6 +63,7 @@
 -299 127 78 -296 131 80 SkeletonHeadStatue.tml
 -282 126 4 -275 130 11 TinyFarmField.tml
 -280 57 -164 -273 60 -159 PumpkinField.tml
+-263 41 -688 -259 43 -684 EmeraldOreOutcrop.tml
 -224 128 111 -220 130 115 EmeraldOreOutcrop.tml
 -132 126 149 -127 132 154 CaveSpiderBurrow.tml
 -99 126 18 -89 131 28 RuinedSmallFountainDiagonal.tml
