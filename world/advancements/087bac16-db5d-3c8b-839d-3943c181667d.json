@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2022-08-28 23:05:51 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2022-08-20 11:40:28 +0300"
@@ -1709,7 +1715,8 @@
   },
   "twilightforest:arborist": {
     "criteria": {
-      "twilight_oak_planks": "2022-08-25 20:34:24 +0300"
+      "twilight_oak_planks": "2022-08-25 20:34:24 +0300",
+      "twilight_oak_log": "2022-08-28 23:11:56 +0300"
     },
     "done": false
   },
