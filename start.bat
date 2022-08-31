@@ -1,4 +1,6 @@
 @echo off
+@chcp 65001
+
 set time_start=%time%
 set date_start=%date%
 
@@ -13,7 +15,7 @@ echo:
 echo:
 echo:
 echo Starting a server...
-java -Xmx4G -Xms4G -jar forge-1.12.2-14.23.5.2860.jar nogui
+java -Xmx4G -Xms4G -Dfile.encoding=UTF-8 -jar forge-1.12.2-14.23.5.2860.jar nogui
 
 
 echo:
