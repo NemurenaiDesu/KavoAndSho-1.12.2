@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2022-09-02 00:39:09 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2022-08-20 14:41:53 +0300"
@@ -335,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2022-09-02 00:45:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/speckled_melon": {
     "criteria": {
       "has_melon": "2022-08-20 17:25:30 +0300"
@@ -455,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2022-09-02 00:39:17 +0300"
+    },
+    "done": true
+  },
   "botania:challenge/root": {
     "criteria": {
       "flower": "2022-08-20 12:04:51 +0300"
@@ -510,6 +528,7 @@
       "oasis": "2022-08-20 11:46:34 +0300",
       "woodland": "2022-08-20 20:47:11 +0300",
       "shrubland": "2022-08-20 12:28:49 +0300",
+      "xeric_shrubland": "2022-09-02 00:41:02 +0300",
       "steppe": "2022-08-20 20:03:59 +0300",
       "alps_foothills": "2022-08-28 20:12:31 +0300",
       "bayou": "2022-08-20 19:26:01 +0300",
@@ -1474,6 +1493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2022-09-02 00:50:14 +0300"
+    },
+    "done": true
+  },
   "botania:main/bauble_wear": {
     "criteria": {
       "code_triggered": "2022-08-28 00:43:37 +0300"
@@ -1483,6 +1508,12 @@
   "biomesoplenty:recipes/buildingblocks/hellbark_stairs": {
     "criteria": {
       "has_planks": "2022-08-23 00:31:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2022-09-02 00:50:12 +0300"
     },
     "done": true
   },
@@ -1873,6 +1904,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2022-08-20 11:47:24 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/red_dye_from_bromeliad": {
+    "criteria": {
+      "has_flower": "2022-09-02 00:41:20 +0300"
     },
     "done": true
   },
@@ -2380,6 +2417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2022-09-02 00:45:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2022-08-20 12:23:44 +0300"
@@ -2734,6 +2777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2022-09-02 00:45:21 +0300"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_ebony": {
     "criteria": {
       "entered_water": "2022-08-20 11:16:22 +0300"
@@ -3069,6 +3118,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2022-08-20 11:30:00 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2022-09-02 00:45:21 +0300"
     },
     "done": true
   },
