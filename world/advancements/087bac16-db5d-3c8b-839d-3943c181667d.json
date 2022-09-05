@@ -1122,6 +1122,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/miners_delight": {
+    "criteria": {
+      "miners_delight": "2022-09-05 14:23:30 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2022-08-20 12:08:52 +0300"
@@ -1487,6 +1493,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2022-08-22 22:55:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2022-09-05 14:05:12 +0300"
     },
     "done": true
   },
@@ -2429,6 +2441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2022-09-05 14:05:12 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2022-08-20 12:08:52 +0300"
@@ -2644,6 +2662,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2022-08-22 17:05:45 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/pink_dye_from_miners_delight": {
+    "criteria": {
+      "has_flower": "2022-09-05 14:23:30 +0300"
     },
     "done": true
   },
