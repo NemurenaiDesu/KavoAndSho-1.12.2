@@ -234,6 +234,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/large_hollow_hill": {
+    "criteria": {
+      "discover": "2022-09-08 23:51:39 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2022-08-20 12:39:57 +0300"
@@ -345,6 +351,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2022-08-20 11:28:53 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/hostile_wolf": {
+    "criteria": {
+      "hurt_by_indirect": "2022-09-09 00:07:02 +0300"
     },
     "done": true
   },
@@ -631,6 +643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2022-09-08 23:53:04 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-27 23:03:40 +0300"
@@ -673,6 +691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2022-09-08 23:53:04 +0300"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "skeleton_druid": "2022-08-29 02:25:37 +0300"
@@ -703,6 +727,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/magic_trees": {
+    "criteria": {
+      "1": "2022-09-08 23:58:59 +0300"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2022-08-20 22:43:23 +0300"
@@ -712,6 +742,12 @@
   "twilightforest:alt/major_landmarks/naga_courtyard": {
     "criteria": {
       "discover": "2022-08-29 02:43:20 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/tree_of_time": {
+    "criteria": {
+      "sapling": "2022-09-09 00:16:15 +0300"
     },
     "done": true
   },
@@ -760,6 +796,12 @@
   "twilightforest:alt/entities/undead": {
     "criteria": {
       "0": "2022-08-29 02:25:35 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/tree_of_transformation": {
+    "criteria": {
+      "sapling": "2022-09-08 23:58:59 +0300"
     },
     "done": true
   },
@@ -1042,6 +1084,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/hollow_hills": {
+    "criteria": {
+      "2": "2022-09-08 23:51:39 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2022-08-20 13:12:58 +0300"
@@ -1254,6 +1302,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2022-08-27 23:10:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2022-09-08 23:53:04 +0300"
     },
     "done": true
   },
@@ -1571,6 +1625,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/wolves": {
+    "criteria": {
+      "0": "2022-09-09 00:07:02 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2022-08-20 11:57:20 +0300"
@@ -1609,8 +1669,11 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "trans_sapling": "2022-09-08 23:58:59 +0300",
+      "time_sapling": "2022-09-09 00:16:15 +0300",
       "twilight_oak_planks": "2022-08-29 02:58:47 +0300",
       "twilight_oak_log": "2022-08-29 02:31:30 +0300",
+      "mine_sapling": "2022-09-09 00:17:29 +0300",
       "dark_sapling": "2022-08-29 02:31:42 +0300",
       "twilight_oak_sapling": "2022-08-29 02:35:10 +0300",
       "canopy_sapling": "2022-08-29 02:35:10 +0300",
@@ -1635,6 +1698,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2022-08-20 11:28:53 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/maps": {
+    "criteria": {
+      "0": "2022-09-08 23:30:07 +0300"
     },
     "done": true
   },
@@ -1683,6 +1752,12 @@
   "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
     "criteria": {
       "has_planks": "2022-08-20 19:40:13 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/magic_map": {
+    "criteria": {
+      "magic_map_focus": "2022-09-08 23:30:07 +0300"
     },
     "done": true
   },
@@ -2268,6 +2343,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/tree_of_mining": {
+    "criteria": {
+      "sapling": "2022-09-09 00:17:29 +0300"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2022-08-20 11:57:07 +0300"
@@ -2349,6 +2430,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2022-08-28 02:54:25 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/wild_boar": {
+    "criteria": {
+      "slay": "2022-09-08 23:49:23 +0300"
     },
     "done": true
   },
@@ -2513,6 +2600,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2022-08-28 14:14:47 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2022-09-08 23:30:07 +0300"
     },
     "done": true
   },
