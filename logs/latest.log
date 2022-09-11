@@ -1,594 +1,720 @@
-[22:35:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:35:02] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:35:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:35:02] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[22:35:02] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 8.1:amd64:6.3, installed at C:\Program Files\Java\jre1.8.0_51
-[22:35:02] [main/INFO] [FML]: Searching C:\Users\Aleksey\AppData\Roaming\.minecraft\versions\KavoAndSho\saves\KavoAndSho\.\mods for mods
-[22:35:02] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in AppleCore-mc1.12.2-3.2.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[22:35:02] [main/WARN] [FML]: The coremod AppleCore (squeek.applecore.AppleCore) is not signed!
-[22:35:02] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps_1.12.2_1.4.8.jar
-[22:35:02] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in dummycoreunofficial-2.4.112.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[22:35:02] [main/WARN] [FML]: The coremod DummyCore.ASM.DCLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[22:35:02] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ForgeEndertech-1.12.2-4.5.2.0-build.0459.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[22:35:02] [main/WARN] [FML]: The coremod com.endertech.minecraft.forge.coremod.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[22:35:02] [main/WARN] [FML]: The coremod CorePlugin (com.endertech.minecraft.forge.coremod.CorePlugin) is not signed!
-[22:35:02] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in HammerLib-1.12.2-2.0.6.32.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[22:35:02] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks_1.12.2_1.64dev.151.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[22:35:02] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[22:35:02] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-1.12.2_HD_U_G5.jar
-[22:35:02] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SereneSeasons_1.12.2_1.2.18_universal.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[22:35:02] [main/WARN] [FML]: The coremod sereneseasons.asm.SSLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[22:35:02] [main/WARN] [FML]: The coremod SSLoadingPlugin (sereneseasons.asm.SSLoadingPlugin) is not signed!
-[22:35:02] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ThaumicAdditions-1.12.2-12.7.8.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[22:35:02] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ThaumicAugmentation-1.12.2-2.1.7.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[22:35:02] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from phosphor-forge-mc1.12.2-0.2.7-universal.jar
-[22:35:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:35:02] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
-[22:35:02] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
-[22:35:02] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[22:35:02] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Users/Aleksey/AppData/Roaming/.minecraft/versions/KavoAndSho/saves/KavoAndSho/./mods/phosphor-forge-mc1.12.2-0.2.7-universal.jar Service=LaunchWrapper Env=SERVER
-[22:35:02] [main/WARN] [FML]: The coremod PhosphorFMLLoadingPlugin (me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin) is not signed!
-[22:35:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[22:35:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:35:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:35:02] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
-[22:35:02] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
-[22:35:02] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
-[22:35:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$2, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$Options, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.LoadingScreenRenderer, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.util.ScreenShotHelper, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.FontRenderer, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame$1, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug$1, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiSlot, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiMainMenu, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiVideoSettings, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.TexturedQuad, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelBox, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelRenderer, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$1, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$2, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$3, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$4, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$1, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$2, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$3, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$4, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.entity.AbstractClientPlayer, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$1, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$2, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$State, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$1, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$2, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$3, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$4, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer$1, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$1, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$2, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$ContainerLocalRenderInformation, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockFluidRenderer, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$1, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$EnumNeighborInfo, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$AmbientOcclusionFace, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$VertexTranslations, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$Orientation, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuad, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuadRetextured, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery$5, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ItemOverrideList, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntitySpecialRenderer, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$1, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$2, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$3, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$PendingUpload, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.RenderChunk, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderManager, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderItemFrame, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$1, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$9, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$10, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$2, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$3, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$4, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$5, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$6, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$7, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$8, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase$1, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.layers.LayerArmorBase, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.LayeredColorMaskTexture, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Holder, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Slot, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$1, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$2, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$3, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite$1, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager$1, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureUtil, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$2, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$3, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$Entry, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelRotation, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$1, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$2, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$3, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$1, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$2, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$3, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$1, but received non-empty
-[22:35:04] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$FboMode, but received non-empty
-[22:35:04] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[22:35:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:35:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:35:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:35:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:35:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:35:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:35:04] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[22:35:04] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@5560bcdf
-[22:35:04] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[22:35:04] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
-[22:35:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[22:35:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:35:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:35:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:35:05] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[22:35:05] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[22:35:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[22:35:05] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[22:35:05] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
-[22:35:05] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.world.World (amu)...
-[22:35:05] [main/INFO] [Hammer Core [ASM]]:   -Patching World
-[22:35:05] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'k', replaced nx.e()V with HC call.
-[22:35:05] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.com.zeitheron.hammercore.asm.HammerCoreTransformer' was detected and will no longer process meta class data
-[22:35:05] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.sereneseasons.asm.transformer.WorldTransformer' was detected and will no longer process meta class data
-[22:35:05] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.world.World (amu)...
-[22:35:05] [main/INFO] [Hammer Core [ASM]]:   -Patching World
-[22:35:05] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'k', replaced nx.e()V with HC call.
-[22:35:05] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.world.WorldServer
-[22:35:05] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.entity.player.EntityPlayer
-[22:35:05] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.entity.EntityLivingBase (vp)...
-[22:35:05] [main/INFO] [Hammer Core [ASM]]:   -Patching EntityLivingBase
-[22:35:05] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'onItemUseFinish': added event call.
-[22:35:05] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.entity.EntityLivingBase
-[22:35:05] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[22:35:06] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
-[22:35:06] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.block.Block
-[22:35:06] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.entity.item.EntityItem (acl)...
-[22:35:06] [main/INFO] [Hammer Core [ASM]]:   -Patching EntityItem
-[22:35:06] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'attackEntityFrom': added event call.
-[22:35:06] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.block.state.BlockStateContainer$StateImplementation
-[22:35:06] [main/INFO] [BetterFps]: Patching math utils with "RIVENS" algorithm
-[22:35:07] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
-[22:35:07] [main/INFO] [BetterFps]: Patching net.minecraft.block.BlockHopper... (arl)
-[22:35:07] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
-[22:35:07] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.item.ItemSlab
-[22:35:07] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.item.ItemSpade
-[22:35:08] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.entity.monster.EntityEnderman$AITakeBlock
-[22:35:08] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.entity.ai.EntityAIEatGrass
-[22:35:08] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.entity.passive.EntityRabbit$AIRaidFarm
-[22:35:08] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.entity.ai.EntityAIHarvestFarmland
-[22:35:09] [main/INFO] [BetterFps]: Patching net.minecraft.server.dedicated.DedicatedServer... (nz)
-[22:35:09] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.profiler.Profiler (rl)...
-[22:35:09] [main/INFO] [Hammer Core [ASM]]:   -Patched startSection!
-[22:35:09] [main/INFO] [Hammer Core [ASM]]:   -Patched endSection!
-[22:35:09] [main/INFO] [Hammer Core [ASM]]:   -Patched endStartSection!
-[22:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[22:35:09] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[22:35:09] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[22:35:09] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[22:35:09] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[22:35:10] [Server thread/INFO] [FML]: Searching C:\Users\Aleksey\AppData\Roaming\.minecraft\versions\KavoAndSho\saves\KavoAndSho\.\mods for mods
-[22:35:10] [Server thread/WARN] [FML]: Mod bettermineshafts is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.1.1
-[22:35:11] [Server thread/WARN] [FML]: Mod botanianeedsit is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-3.0-release
-[22:35:11] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
-[22:35:11] [Server thread/INFO] [FML]: Disabling mod jeresources it is client side only.
-[22:35:12] [Server thread/INFO] [FML]: Disabling mod llor it is client side only.
-[22:35:12] [Server thread/WARN] [FML]: Mod patchouli is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0-23.6
-[22:35:12] [Server thread/INFO] [FML]: Disabling mod thaumicjei it is client side only.
-[22:35:13] [Server thread/INFO] [FML]: Disabling mod wailaharvestability it is client side only.
-[22:35:13] [Server thread/INFO] [FML]: Forge Mod Loader has identified 55 mods to load
-[22:35:13] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[22:35:13] [Server thread/WARN] [FML]: Missing English translation for alcatrazcore: assets/alcatrazcore/lang/en_us.lang
-[22:35:13] [Server thread/WARN] [FML]: Missing English translation for bettercaves: assets/bettercaves/lang/en_us.lang
-[22:35:13] [Server thread/WARN] [FML]: Missing English translation for bettermineshafts: assets/bettermineshafts/lang/en_us.lang
-[22:35:13] [Server thread/WARN] [FML]: Missing English translation for castle_dungeons: assets/castle_dungeons/lang/en_us.lang
-[22:35:13] [Server thread/WARN] [FML]: Missing English translation for chameleon: assets/chameleon/lang/en_us.lang
-[22:35:13] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
-[22:35:13] [Server thread/WARN] [FML]: Missing English translation for containerfix: assets/containerfix/lang/en_us.lang
-[22:35:13] [Server thread/WARN] [FML]: Missing English translation for craftstudioapi: assets/craftstudioapi/lang/en_us.lang
-[22:35:13] [Server thread/WARN] [FML]: Missing English translation for dummycore: assets/dummycore/lang/en_us.lang
-[22:35:13] [Server thread/WARN] [FML]: Missing English translation for forgeendertech: assets/forgeendertech/lang/en_us.lang
-[22:35:13] [Server thread/WARN] [FML]: Missing English translation for libraryex: assets/libraryex/lang/en_us.lang
-[22:35:13] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
-[22:35:13] [Server thread/WARN] [FML]: Missing English translation for roguelike: assets/roguelike/lang/en_us.lang
-[22:35:13] [Server thread/WARN] [FML]: Missing English translation for ruins: assets/ruins/lang/en_us.lang
-[22:35:13] [Server thread/WARN] [FML]: Missing English translation for thaumicwaila: assets/thaumicwaila/lang/en_us.lang
-[22:35:13] [Server thread/WARN] [FML]: Missing English translation for phosphor-lighting: assets/phosphor-lighting/lang/en_us.lang
-[22:35:13] [Server thread/INFO] [FML]: FML has found a non-mod file JustEnoughResources_1.12.2_0.9.2.60.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[22:35:13] [Server thread/INFO] [FML]: FML has found a non-mod file lloverlayreloaded-1.1.6-mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[22:35:13] [Server thread/INFO] [FML]: FML has found a non-mod file ThaumicJEI-1.12.2-1.6.0-27.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[22:35:13] [Server thread/INFO] [FML]: FML has found a non-mod file WailaHarvestability_mc1.12_1.1.12.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[22:35:13] [Server thread/INFO] [FML]: FML has found a non-mod file core-3.6.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[22:35:13] [Server thread/INFO] [FML]: FML has found a non-mod file json-3.6.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[22:35:13] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, alcatrazcore, applecore, aquaculture, backpack, baubles, bettercaves, bettermineshafts, biomesoplenty, bookshelf, botania, botanianeedsit, botanicadds, carryon, castle_dungeons, chameleon, clumps, containerfix, corpse, craftstudioapi, dimdoors, dummycore, eplus, endores, endreborn, extrabotany, forgeendertech, grimoireofgaia, hammercore, waila, inventorytweaks, ironchest, jei, libraryex, mantle, naturescompass, netherex, patchouli, roguelike, ruins, sereneseasons, storagedrawers, stygian, thaumcraft, thaumadditions, thaumicaugmentation, thaumicbases, thaumictinkerer, thaumicwaila, twilightforest, orelib, phosphor-lighting] at CLIENT
-[22:35:13] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, alcatrazcore, applecore, aquaculture, backpack, baubles, bettercaves, bettermineshafts, biomesoplenty, bookshelf, botania, botanianeedsit, botanicadds, carryon, castle_dungeons, chameleon, clumps, containerfix, corpse, craftstudioapi, dimdoors, dummycore, eplus, endores, endreborn, extrabotany, forgeendertech, grimoireofgaia, hammercore, waila, inventorytweaks, ironchest, jei, libraryex, mantle, naturescompass, netherex, patchouli, roguelike, ruins, sereneseasons, storagedrawers, stygian, thaumcraft, thaumadditions, thaumicaugmentation, thaumicbases, thaumictinkerer, thaumicwaila, twilightforest, orelib, phosphor-lighting] at SERVER
-[22:35:14] [Server thread/ERROR] [FML]: The mod backpack is expecting signature @FINGERPRINT@ for source backpack_3.0.2_1.12.2.jar, however there is no signature matching that description
-[22:35:14] [Server thread/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.network.NetHandlerPlayServer
-[22:35:15] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
-[22:35:16] [Server thread/INFO] [thaumadditions]: You are running general public build 12.7.8@bc-270518. You're fine! ;)
-[22:35:16] [Server thread/INFO] [thaumicaugmentationcore]: Successfully transformed class thaumcraft.common.entities.EntityFluxRift
-[22:35:16] [Server thread/INFO] [thaumicaugmentationcore]: Successfully transformed class thaumcraft.common.items.casters.foci.FocusMediumTouch
-[22:35:17] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[22:35:17] [Server thread/INFO] [FML]: Found 2168 ObjectHolder annotations
-[22:35:17] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[22:35:17] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[22:35:17] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[22:35:17] [Forge Version Check/INFO] [forge.VersionCheck]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
-[22:35:17] [Server thread/INFO] [thaumicaugmentationcore]: Successfully transformed class baubles.api.cap.BaublesContainer
-[22:35:20] [Server thread/INFO] [HammerCore]: Added "org.zeith.thaumicadditions.config.ConfigsTAR" to Hammer Core Simple Configs.
-[22:35:20] [Server thread/INFO] [HammerCore]: Added "com.zeitheron.hammercore.cfg.HammerCoreConfigs" to Hammer Core Simple Configs.
-[22:35:20] [Server thread/INFO] [HammerCore]: Added "org.zeith.thaumicadditions.events.LivingEventsTAR@1a0ec253" to MCF Event Bus.
-[22:35:20] [Server thread/INFO] [HammerCore]: Added "org.zeith.thaumicadditions.utils.ThaumicScheduler@13ad329a" to MCF Event Bus.
-[22:35:20] [Server thread/INFO] [HammerCore]: Added "org.zeith.thaumicadditions.init.KnowledgeTAR@7f4b4c1" to MCF Event Bus.
-[22:35:20] [Server thread/INFO] [HammerCore]: Added "org.zeith.thaumicadditions.seals.SealChunkLoader@783f03a1" to MCF Event Bus.
-[22:35:20] [Server thread/INFO] [HammerCore]: Added "com.zeitheron.hammercore.world.gen.WorldRetroGen@5a9ebd99" to MCF Event Bus.
-[22:35:20] [Server thread/INFO] [HammerCore]: Added "com.zeitheron.hammercore.specials.Zeitheron.ZeitheronGlobEvents@37e83e1f" to MCF Event Bus.
-[22:35:20] [Server thread/INFO] [HammerCore]: Added "com.zeitheron.hammercore.HammerCore@666666" to MCF Event Bus.
-[22:35:20] [Server thread/INFO] [HammerCore]: Added 7 object to MCF Event Bus.
-[22:35:21] [Server thread/INFO] [endreborn]: endreborn has skipped compatibility for mod Tinkers' Construct.
-[22:35:21] [Server thread/INFO] [extrabotany]: Welcome to the World of the supreme principle of Mana
-[22:35:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `season_sensor`, expected `sereneseasons`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:22] [Server thread/INFO] [thaumadditions]: [SOUNDS] Registered sound thaumadditions:rune_set
-[22:35:22] [Server thread/INFO] [thaumadditions]: [SOUNDS] Registered sound thaumadditions:popen
-[22:35:22] [Server thread/INFO] [thaumadditions]: [SOUNDS] Registered sound thaumadditions:pclose
-[22:35:22] [Server thread/INFO] [thaumadditions]: [SOUNDS] Registered sound thaumadditions:fizz
-[22:35:22] [Server thread/INFO] [thaumadditions]: [SOUNDS] Registered sound thaumadditions:shadow_beam
-[22:35:22] [Server thread/INFO] [thaumadditions]: [SOUNDS] Registered sound thaumadditions:essentia_pistol_shoot
-[22:35:22] [Server thread/INFO] [thaumadditions]: [SOUNDS] Registered sound thaumadditions:mithminite_scythe
-[22:35:22] [Server thread/INFO] [thaumicaugmentationcore]: Successfully transformed class thaumcraft.common.items.armor.ItemVoidRobeArmor
-[22:35:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `thaumicbases.overchanter`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `thaumicbases.campfire`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `thaumicbases.brazier`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `thaumicbases.eldritchbane`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `thaumicbases.elderknowledge`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `thaumicbases.tainted`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:22] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Baubles.
-[22:35:22] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
-[22:35:22] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
-[22:35:22] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
-[22:35:22] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
-[22:35:22] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
-[22:35:23] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Thaumcraft.
-[22:35:23] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
-[22:35:23] [Server thread/INFO] [thaumicaugmentationcore]: Successfully transformed class thaumcraft.common.tiles.crafting.TileInfusionMatrix
-[22:35:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.advanced.table`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.decorative.book`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `botania` for name `specialflower`, expected `extrabotany`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:23] [Server thread/INFO] [grimoireofgaia]: Registering blocks...
-[22:35:23] [Server thread/INFO] [grimoireofgaia]: Block registration complete.
-[22:35:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:23] [Server thread/INFO] [STDOUT]: [fluke.stygian.block.fluid.ModFluids:registerFluids:23]: Registering acid
-[22:35:24] [Server thread/INFO] [FML]: Applying holder lookups
-[22:35:24] [Server thread/INFO] [FML]: Holder lookups applied
-[22:35:24] [Server thread/INFO] [Backpack]: Loading items...
-[22:35:24] [Server thread/INFO] [Backpack]: 15 item features loaded.
-[22:35:24] [Server thread/INFO] [STDOUT]: [workbench.botanianeedsit.BotaniaNeedsTheseThings:registerItems:57]: Block{botanianeedsit:mana_charger}
-[22:35:24] [Server thread/INFO] [grimoireofgaia]: Registering item blocks...
-[22:35:24] [Server thread/INFO] [grimoireofgaia]: Item block registration complete.
-[22:35:24] [Server thread/INFO] [grimoireofgaia]: Registering items...
-[22:35:24] [Server thread/INFO] [grimoireofgaia]: Item registration complete.
-[22:35:24] [Server thread/INFO] [FML]: Applying holder lookups
-[22:35:24] [Server thread/INFO] [FML]: Holder lookups applied
-[22:35:24] [Server thread/INFO] [thaumicaugmentationcore]: Successfully transformed class thaumcraft.common.entities.monster.EntityEldritchGuardian
-[22:35:25] [Server thread/INFO] [grimoireofgaia]: Registering entities...
-[22:35:25] [Server thread/INFO] [grimoireofgaia]: Entity registration complete.
-[22:35:25] [Server thread/INFO] [grimoireofgaia]: Registering Sounds
-[22:35:25] [Server thread/INFO] [grimoireofgaia]: Sounds Finished
-[22:35:25] [Server thread/INFO] [FML]: Applying holder lookups
-[22:35:25] [Server thread/INFO] [FML]: Holder lookups applied
-[22:35:25] [Server thread/INFO] [FML]: Applying holder lookups
-[22:35:25] [Server thread/INFO] [FML]: Holder lookups applied
-[22:35:25] [Server thread/INFO] [FML]: Injecting itemstacks
-[22:35:25] [Server thread/INFO] [FML]: Itemstack injection complete
-[22:35:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[22:35:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[22:35:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[22:35:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[22:35:25] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
-[22:35:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:35:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[22:35:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:35:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:35:27] [Server thread/INFO] [Backpack]: Loading recipes...
-[22:35:27] [Server thread/INFO] [Backpack]: 15 recipe features loaded.
-[22:35:27] [Server thread/INFO] [THAUMCRAFT]: Checking for mod & oredict compatibilities
-[22:35:27] [Server thread/INFO] [THAUMCRAFT]: Adding entities to MFR safari net blacklist.
-[22:35:27] [Server thread/INFO] [thaumicaugmentationcore]: Successfully transformed class thaumcraft.common.lib.crafting.InfusionRunicAugmentRecipe
-[22:35:27] [Server thread/INFO] [com.zeitheron.hammercore.utils.ForgeRegistryUtils]: Removed entry "botania:spreader_3" from registry of net.minecraft.item.crafting.IRecipe. Info: Alias - "null"; Overrides removed: 0; ID: 1239; OverrideOwner: net.minecraftforge.registries.ForgeRegistry$OverrideOwner@f5dda704; Registry Slaves: [forge:registry_defaulted_wrapper]
-[22:35:27] [Server thread/INFO] [grimoireofgaia]: Registering recipes...
-[22:35:27] [Server thread/INFO] [grimoireofgaia]: Recipe registration complete.
-[22:35:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `nether_brick_fence`, expected `netherex`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:27] [Server thread/INFO] [thaumictinkerer]: Hi Botania, we have unfinished business you and I
-[22:35:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `thaumadditions` for name `essence_salt.mix`, expected `hammercore`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `thaumadditions` for name `essence_salt.apply`, expected `hammercore`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `thaumadditions` for name `essence_salt.remove`, expected `hammercore`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `thaumadditions` for name `seal_paint`, expected `hammercore`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `thaumadditions` for name `phantom_ink.apply`, expected `hammercore`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `thaumadditions` for name `phantom_ink.remove`, expected `hammercore`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `thaumadditions` for name `disenchant`, expected `hammercore`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:27] [Server thread/INFO] [FML]: Applying holder lookups
-[22:35:27] [Server thread/INFO] [FML]: Holder lookups applied
-[22:35:28] [Forge Version Check/INFO] [forge.VersionCheck]: [thaumadditions] Starting version check at https://dccg.herokuapp.com/api/fmluc/232564
-[22:35:28] [Server thread/INFO] [dimdoors]: Loaded 156 templates in 30 ms.
-[22:35:28] [Forge Version Check/INFO] [forge.VersionCheck]: [thaumadditions] Found status: UP_TO_DATE Target: null
-[22:35:28] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
-[22:35:28] [Server thread/INFO] [chameleon]: Could not load integration module: com.jaquadro.minecraft.storagedrawers.integration.Thaumcraft
-[22:35:28] [Server thread/INFO] [thaumadditions]: Registering seals...
-[22:35:28] [Server thread/INFO] [thaumadditions]:  -Aqua, None, None...
-[22:35:28] [Server thread/INFO] [thaumadditions]:  -Terra, Terra, Terra...
-[22:35:28] [Server thread/INFO] [thaumadditions]:  -Victus, Herba, None...
-[22:35:28] [Server thread/INFO] [thaumadditions]:  -Instrumentum, Herba, None...
-[22:35:28] [Server thread/INFO] [thaumadditions]:  -Instrumentum, Herba, Ordo...
-[22:35:28] [Server thread/INFO] [thaumadditions]:  -Vacuos, Vacuos, Vacuos...
-[22:35:28] [Server thread/INFO] [thaumadditions]:  -Praecantatio, Aer, Any...
-[22:35:28] [Server thread/INFO] [thaumadditions]: -Registered 7 seals.
-[22:35:28] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
-[22:35:28] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `thaumcraft` for name `stairsancient`, expected `thaumicaugmentation`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldcobble`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldcobblemossy`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldgravel`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldbrick`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldlapis`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldiron`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldgold`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decoolddiamond`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.smb`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.smbreturn`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.ironspike`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.thaumspike`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.voidspike`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.bchest`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.blegs`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.bboots`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.mortal`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.camp`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.braizer`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.greatpipe`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.syrop`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.relax`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.hunger`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
-[22:35:28] [Server thread/INFO] [thaumictinkerer]: Initializing Telekenetic powers
-[22:35:28] [Server thread/INFO] [FML]: Injecting itemstacks
-[22:35:28] [Server thread/INFO] [FML]: Itemstack injection complete
-[22:35:29] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
-[22:35:29] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
-[22:35:29] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[22:35:29] [Server thread/INFO] [grimoireofgaia]: Registering Item Aspects
-[22:35:29] [Server thread/INFO] [grimoireofgaia]: Registering Entity Aspects
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 5 research entries from thaumcraft:research/eldritch
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 2 research entries from thaumictinkerer:research/foci
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/basics
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 12 research entries from thaumcraft:research/scans
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 8 research entries from thaumicaugmentation:research/casting.json
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/artifice
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 0 research entries from thaumictinkerer:research/baubles
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 6 research entries from thaumictinkerer:research/misc
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 6 research entries from thaumictinkerer:research/machines
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 1 research entries from thaumicaugmentation:research/ward_foci_coremod.json
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 29 research entries from thaumcraft:research/golemancy
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 6 research entries from thaumicaugmentation:research/baubles.json
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 8 research entries from thaumicaugmentation:research/warded.json
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 5 research entries from thaumicaugmentation:research/construct.json
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 10 research entries from thaumicaugmentation:research/impetus.json
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 5 research entries from thaumicaugmentation:research/gear.json
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 22 research entries from thaumcraft:research/alchemy
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 14 research entries from thaumicaugmentation:research/void.json
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 23 research entries from thaumcraft:research/auromancy
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 1 research entries from thaumicaugmentation:research/alchemy.json
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 4 research entries from thaumicaugmentation:research/foci.json
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 17 research entries from thaumcraft:research/infusion
-[22:35:29] [Server thread/INFO] [THAUMCRAFT]: Loaded 4 research entries from thaumicaugmentation:research/misc.json
-[22:35:29] [Server thread/INFO] [botania]: The Lexica Botania has 30924 words.
-[22:35:29] [Server thread/INFO] [STDOUT]: [net.puffish.castle.CastleDungeons:postInit:50]: Themes loaded: 2
-[22:35:29] [Server thread/INFO] [STDOUT]: [net.puffish.castle.CastleDungeons:postInit:51]: Chests loaded: true
-[22:35:29] [Server thread/INFO] [STDOUT]: [net.puffish.castle.CastleDungeons:postInit:52]: Config loaded: true
-[22:35:29] [Server thread/INFO] [extrabotany]: =============================================================================================
-[22:35:29] [Server thread/INFO] [extrabotany]: *  _______   ___  ___   ___________    _______         __                                   *
-[22:35:29] [Server thread/INFO] [extrabotany]: * /"     "| |"  \/"  | ("     _   ")  /"      \       /""\                                  *
-[22:35:29] [Server thread/INFO] [extrabotany]: *(: ______)  \   \  /   )__/  \\__/  |:        |     /    \                                 *
-[22:35:29] [Server thread/INFO] [extrabotany]: * \/    |     \\  \/       \\_ /     |_____/   )    /' /\  \                                *
-[22:35:29] [Server thread/INFO] [extrabotany]: * // ___)_    /\.  \       |.  |      //      /    //  __'  \                               *
-[22:35:29] [Server thread/INFO] [extrabotany]: *(:      "|  /  \   \      \:  |     |:  __   \   /   /  \\  \                              *
-[22:35:29] [Server thread/INFO] [extrabotany]: * \_______) |___/\___|      \__|     |__|  \___) (___/    \___)                             *
-[22:35:29] [Server thread/INFO] [extrabotany]: *           _______       ______     ___________        __       _____  ___    ___  ___       *
-[22:35:29] [Server thread/INFO] [extrabotany]: *          |   _  "\     /    " \   ("     _   ")      /""\     (\"   \|"  \  |"  \/"  | 	  *
-[22:35:29] [Server thread/INFO] [extrabotany]: *          (. |_)  :)   // ____  \   )__/  \\__/      /    \    |.\\   \    |  \   \  /  	  *
-[22:35:29] [Server thread/INFO] [extrabotany]: *          |:     \/   /  /    ) :)     \\_ /        /' /\  \   |: \.   \\  |   \\  \/   	  *
-[22:35:29] [Server thread/INFO] [extrabotany]: *          (|  _  \\  (: (____/ //      |.  |       //  __'  \  |.  \    \. |   /   /    	  *
-[22:35:29] [Server thread/INFO] [extrabotany]: *          |: |_)  :)  \        /       \:  |      /   /  \\  \ |    \    \ |  /   /     	  *
-[22:35:29] [Server thread/INFO] [extrabotany]: *          (_______/    \"_____/         \__|     (___/    \___) \___|\____\) |___/      	  *
-[22:35:29] [Server thread/INFO] [extrabotany]: =============================================================================================
-[22:35:29] [Server thread/INFO] [extrabotany]: *Thank you for installing ExtraBotany!                                                      *
-[22:35:29] [Server thread/INFO] [extrabotany]: *Owner: ExtraMeteorP                                                                        *
-[22:35:29] [Server thread/INFO] [extrabotany]: *Artist: MalayP, Gloridifice                                                                *
-[22:35:29] [Server thread/INFO] [extrabotany]: *No more anime girl                                                                         *
-[22:35:29] [Server thread/INFO] [extrabotany]: *Yes this is a spam                                                                         *
-[22:35:29] [Server thread/INFO] [extrabotany]: *If you want to disable it, check your config settings                                      *
-[22:35:29] [Server thread/INFO] [extrabotany]: =============================================================================================
-[22:35:29] [Server thread/INFO] [extrabotany]:  .____         .                 __   __         .                        .___ 
-[22:35:29] [Server thread/INFO] [extrabotany]:  /      _  .- _/_   .___    ___  |    |    ___  _/_     ___    __.  .___  /   \
-[22:35:29] [Server thread/INFO] [extrabotany]:  |__.    \,'   |    /   \  /   ` |\  /|  .'   `  |    .'   ` .'   \ /   \ |,_-'
-[22:35:29] [Server thread/INFO] [extrabotany]:  |       /\    |    |   ' |    | | \/ |  |----'  |    |----' |    | |   ' |    
-[22:35:29] [Server thread/INFO] [extrabotany]:  /----/ /  \   \__/ /     `.__/| /    /  `.___,  \__/ `.___,  `._.' /     /    
-[22:35:29] [Server thread/INFO] [extrabotany]:                                                                                
-[22:35:29] [Server thread/INFO] [extrabotany]: 					 .___                                     .                _    
-[22:35:29] [Server thread/INFO] [extrabotany]: 					 /   \ .___    ___    ____   ___  , __   _/_     ___    ___/  
-[22:35:29] [Server thread/INFO] [extrabotany]: 					 |,_-' /   \ .'   `  (     .'   ` |'  `.  |    .'   `  /   |  
-[22:35:29] [Server thread/INFO] [extrabotany]: 					 |     |   ' |----'  `--.  |----' |    |  |    |----' ,'   |  
-[22:35:29] [Server thread/INFO] [extrabotany]: 					 /     /     `.___, \___.' `.___, /    |  \__/ `.___, `___,'  
-[22:35:29] [Server thread/INFO] [extrabotany]: 																			   `   
-[22:35:29] [Server thread/INFO] [extrabotany]: =============================================================================================
-[22:35:30] [Server thread/INFO] [thaumicaugmentation]: The following mods were detected and have integration enabled:
-[22:35:30] [Server thread/INFO] [thaumicaugmentation]: botania
-[22:35:30] [Server thread/INFO] [Waila]: Starting Waila...
-[22:35:30] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[22:35:30] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[22:35:30] [Server thread/INFO] [Waila]: Registering plugins...
-[22:35:30] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[22:35:30] [Server thread/INFO] [Waila]: Registering plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
-[22:35:30] [Server thread/ERROR] [Waila]: Error registering wrapped plugin from storagedrawers at com.jaquadro.minecraft.storagedrawers.integration.Waila.registerProvider
-[22:35:30] [Server thread/INFO] [Waila]: Registering plugin at com.zeitheron.hammercore.compat.waila.GetWaila
-[22:35:30] [Server thread/INFO] [HammerCore]: Waila API hooked!
-[22:35:30] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[22:35:30] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[22:35:30] [Server thread/INFO] [Waila]: Registering plugin at me.xfl03.thaumicwaila.provider.AspectContainerProvider
-[22:35:30] [Server thread/INFO] [ThaumicWaila]: AspectContainerProvider registered.
-[22:35:30] [Server thread/INFO] [Waila]: Registering plugin at me.xfl03.thaumicwaila.provider.BlockVisBatteryProvider
-[22:35:30] [Server thread/INFO] [ThaumicWaila]: BlockVisBatteryProvider registered.
-[22:35:30] [Server thread/INFO] [Waila]: Registering plugin at me.xfl03.thaumicwaila.provider.GogglesDisplayProvider
-[22:35:30] [Server thread/INFO] [ThaumicWaila]: GogglesDisplayProvider registered.
-[22:35:30] [Server thread/INFO] [Waila]: Registering plugin at me.xfl03.thaumicwaila.provider.StabilizableProvider
-[22:35:30] [Server thread/INFO] [ThaumicWaila]: StabilizableProvider registered.
-[22:35:30] [Server thread/INFO] [Waila]: Registering plugin at me.xfl03.thaumicwaila.render.AspectRender
-[22:35:30] [Server thread/INFO] [ThaumicWaila]: AspectRender registered.
-[22:35:30] [Server thread/INFO] [Waila]: Starting Waila took 58.96 ms
-[22:35:30] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 55 mods
-[22:35:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[22:35:30] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[22:35:31] [Server thread/INFO] [FML]: Applying holder lookups
-[22:35:31] [Server thread/INFO] [FML]: Holder lookups applied
-[22:35:31] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
-[22:35:31] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
-[22:35:31] [Server thread/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.world.WorldServer
-[22:35:31] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:89]: ChunkGeneratorOverworldBOP json: 
-[22:35:31] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:96]: ChunkGeneratorOverworldBOP settings: {"landScheme":"vanilla","tempScheme":"medium_zones","rainScheme":"medium_zones","biomeSize":"medium","amplitude":1.0,"generateBopOre":true,"generatePoisonIvy":false,"generateBerryBushes":true,"generateThorns":true,"generateQuicksand":true,"generateLiquidPoison":true,"generateHotSprings":true,"generateNetherHives":true,"generateEndFeatures":true,"mainNoiseScaleX":80.0,"mainNoiseScaleY":160.0,"mainNoiseScaleZ":80.0,"coordinateScale":684.412,"heightScale":684.412,"upperLimitScale":512.0,"lowerLimitScale":512.0}
-[22:35:31] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@15166eac)
-[22:35:32] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 1022 advancements
-[22:35:32] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 0
-[22:35:32] [Server thread/INFO] [NetherEx]: Creating Nether biome data configs.
-[22:35:32] [Server thread/INFO] [NetherEx]: Reading Nether biome data configs.
-[22:35:32] [Server thread/INFO] [NetherEx]: Creating Pigtificate trade configs.
-[22:35:32] [Server thread/INFO] [NetherEx]: Reading Pigtificate trade configs.
-[22:35:32] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
-[22:35:32] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@15166eac)
-[22:35:32] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
-[22:35:32] [Server thread/INFO] [FML]: Loading dimension 684 (world) (net.minecraft.server.dedicated.DedicatedServer@15166eac)
-[22:35:32] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 684
-[22:35:32] [Server thread/INFO] [FML]: Loading dimension 685 (world) (net.minecraft.server.dedicated.DedicatedServer@15166eac)
-[22:35:32] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 685
-[22:35:32] [Server thread/INFO] [FML]: Loading dimension 686 (world) (net.minecraft.server.dedicated.DedicatedServer@15166eac)
-[22:35:32] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 686
-[22:35:32] [Server thread/INFO] [FML]: Loading dimension 687 (world) (net.minecraft.server.dedicated.DedicatedServer@15166eac)
-[22:35:32] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 687
-[22:35:32] [Server thread/INFO] [FML]: Loading dimension 688 (world) (net.minecraft.server.dedicated.DedicatedServer@15166eac)
-[22:35:32] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 688
-[22:35:33] [Server thread/INFO] [FML]: Loading dimension 14676 (world) (net.minecraft.server.dedicated.DedicatedServer@15166eac)
-[22:35:33] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 14676
-[22:35:33] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@15166eac)
-[22:35:33] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 1
-[22:35:33] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@15166eac)
-[22:35:33] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 7
-[22:35:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[22:35:34] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class de.maxhenkel.corpse.entities.EntityCorpse from class de.maxhenkel.corpse.entities.EntityCorpseInventoryBase
-[22:35:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 3%
-[22:35:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 47%
-[22:35:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (6,305s)! For help, type "help" or "?"
-[22:35:36] [Server thread/INFO] [HammerCore]: Registering raytrace plugin: com.zeitheron.hammercore.internal.blocks.multipart.HammerCoreRaytracePlugin ...
-[22:35:36] [Server thread/INFO] [HammerCore]: Registered raytrace  plugin: com.zeitheron.hammercore.internal.blocks.multipart.HammerCoreRaytracePlugin in 0 ms
-[22:35:36] [Server thread/INFO] [NetherEx]: The Nether has been overridden.
-[22:35:37] [Thread-16/INFO] [THAUMCRAFT]: Starting aura thread for dim 0
-[22:35:37] [Thread-17/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
-[22:35:37] [Thread-18/INFO] [THAUMCRAFT]: Starting aura thread for dim 684
-[22:35:37] [Thread-19/INFO] [THAUMCRAFT]: Starting aura thread for dim 685
-[22:35:37] [Thread-20/INFO] [THAUMCRAFT]: Starting aura thread for dim 686
-[22:35:37] [Thread-21/INFO] [THAUMCRAFT]: Starting aura thread for dim 687
-[22:35:37] [Thread-22/INFO] [THAUMCRAFT]: Starting aura thread for dim 688
-[22:35:37] [Thread-23/INFO] [THAUMCRAFT]: Starting aura thread for dim 14676
-[22:35:37] [Thread-24/INFO] [THAUMCRAFT]: Starting aura thread for dim 1
-[22:35:37] [Thread-25/INFO] [THAUMCRAFT]: Starting aura thread for dim 7
-[22:35:37] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
-[22:35:37] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:35:37] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 684
-[22:35:37] [Server thread/INFO] [FML]: Unloading dimension 684
-[22:35:37] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 685
-[22:35:37] [Server thread/INFO] [FML]: Unloading dimension 685
-[22:35:37] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 686
-[22:35:37] [Server thread/INFO] [FML]: Unloading dimension 686
-[22:35:37] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 687
-[22:35:37] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: Not a JSON Object: null
-[22:35:37] [Server thread/INFO] [FML]: Unloading dimension 687
-[22:35:37] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 688
-[22:35:38] [Server thread/INFO] [FML]: Unloading dimension 688
-[22:35:38] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 14676
-[22:35:38] [Server thread/INFO] [FML]: Unloading dimension 14676
-[22:35:38] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 1
-[22:35:38] [Server thread/INFO] [FML]: Unloading dimension 1
-[22:35:38] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 7
-[22:35:38] [Server thread/INFO] [FML]: Unloading dimension 7
-[22:35:39] [Thread-17/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
-[22:35:39] [Thread-20/INFO] [THAUMCRAFT]: Stopping aura thread for dim 686
-[22:35:39] [Thread-19/INFO] [THAUMCRAFT]: Stopping aura thread for dim 685
-[22:35:39] [Thread-18/INFO] [THAUMCRAFT]: Stopping aura thread for dim 684
-[22:35:39] [Thread-22/INFO] [THAUMCRAFT]: Stopping aura thread for dim 688
-[22:35:39] [Thread-25/INFO] [THAUMCRAFT]: Stopping aura thread for dim 7
-[22:35:39] [Thread-24/INFO] [THAUMCRAFT]: Stopping aura thread for dim 1
-[22:35:39] [Thread-21/INFO] [THAUMCRAFT]: Stopping aura thread for dim 687
-[22:35:39] [Thread-23/INFO] [THAUMCRAFT]: Stopping aura thread for dim 14676
-[22:35:40] [Forge Version Check/INFO] [forge.VersionCheck]: [hammercore] Starting version check at http://dccg.herokuapp.com/api/fmluc/247401
-[22:35:40] [Forge Version Check/INFO] [forge.VersionCheck]: [hammercore] Found status: UP_TO_DATE Target: null
-[22:35:40] [Forge Version Check/INFO] [forge.VersionCheck]: [craftstudioapi] Starting version check at https://leviathan-studio.com/craftstudioapi/update.json
-[22:36:02] [Forge Version Check/INFO] [forge.VersionCheck]: [botanicadds] Starting version check at http://dccg.herokuapp.com/api/fmluc/310637
-[22:36:02] [Forge Version Check/INFO] [forge.VersionCheck]: [botanicadds] Found status: BETA Target: null
-[22:36:22] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 217181
-[22:42:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[22:42:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[22:42:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[22:42:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[22:42:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[22:42:18] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
-[22:42:18] [Server thread/INFO] [FML]: Unloading dimension 0
-[22:42:18] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[22:42:18] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[22:42:18] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[22:42:18] [Thread-16/WARN] [THAUMCRAFT]: No auras found!
+[01:23:27] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:23:27] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:23:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:23:27] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[01:23:27] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 8.1:amd64:6.3, installed at C:\Program Files\Java\jre1.8.0_51
+[01:23:27] [main/INFO] [FML]: Searching C:\Users\Aleksey\AppData\Roaming\.minecraft\versions\KavoAndSho\saves\KavoAndSho\.\mods for mods
+[01:23:27] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in AppleCore-mc1.12.2-3.2.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:23:27] [main/WARN] [FML]: The coremod AppleCore (squeek.applecore.AppleCore) is not signed!
+[01:23:27] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps_1.12.2_1.4.8.jar
+[01:23:27] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in dummycoreunofficial-2.4.112.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:23:27] [main/WARN] [FML]: The coremod DummyCore.ASM.DCLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:23:27] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ForgeEndertech-1.12.2-4.5.2.0-build.0459.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:23:27] [main/WARN] [FML]: The coremod com.endertech.minecraft.forge.coremod.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:23:27] [main/WARN] [FML]: The coremod CorePlugin (com.endertech.minecraft.forge.coremod.CorePlugin) is not signed!
+[01:23:27] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in HammerLib-1.12.2-2.0.6.32.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:23:27] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks_1.12.2_1.64dev.151.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:23:27] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:23:27] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-1.12.2_HD_U_G5.jar
+[01:23:27] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SereneSeasons_1.12.2_1.2.18_universal.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:23:27] [main/WARN] [FML]: The coremod sereneseasons.asm.SSLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:23:27] [main/WARN] [FML]: The coremod SSLoadingPlugin (sereneseasons.asm.SSLoadingPlugin) is not signed!
+[01:23:27] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ThaumicAdditions-1.12.2-12.7.8.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:23:27] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ThaumicAugmentation-1.12.2-2.1.7.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:23:27] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from phosphor-forge-mc1.12.2-0.2.7-universal.jar
+[01:23:27] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:23:27] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[01:23:27] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[01:23:27] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[01:23:27] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Users/Aleksey/AppData/Roaming/.minecraft/versions/KavoAndSho/saves/KavoAndSho/./mods/phosphor-forge-mc1.12.2-0.2.7-universal.jar Service=LaunchWrapper Env=SERVER
+[01:23:27] [main/WARN] [FML]: The coremod PhosphorFMLLoadingPlugin (me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin) is not signed!
+[01:23:27] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:23:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:23:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:23:27] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[01:23:27] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[01:23:27] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[01:23:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$2, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$Options, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.LoadingScreenRenderer, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.util.ScreenShotHelper, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.FontRenderer, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame$1, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug$1, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiSlot, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiMainMenu, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiVideoSettings, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.TexturedQuad, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelBox, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelRenderer, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$1, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$2, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$3, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$4, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$1, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$2, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$3, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$4, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.entity.AbstractClientPlayer, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$1, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$2, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$State, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$1, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$2, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$3, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$4, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer$1, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$1, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$2, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$ContainerLocalRenderInformation, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockFluidRenderer, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$1, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$EnumNeighborInfo, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$AmbientOcclusionFace, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$VertexTranslations, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$Orientation, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuad, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuadRetextured, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery$5, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ItemOverrideList, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntitySpecialRenderer, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$1, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$2, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$3, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$PendingUpload, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.RenderChunk, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderManager, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderItemFrame, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$1, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$9, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$10, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$2, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$3, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$4, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$5, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$6, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$7, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$8, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase$1, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.layers.LayerArmorBase, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.LayeredColorMaskTexture, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Holder, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Slot, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$1, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$2, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$3, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite$1, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager$1, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureUtil, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$2, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$3, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$Entry, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelRotation, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$1, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$2, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$3, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$1, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$2, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$3, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$1, but received non-empty
+[01:23:29] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$FboMode, but received non-empty
+[01:23:29] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[01:23:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:23:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:23:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:23:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:23:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:23:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:23:29] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[01:23:29] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@c4c0b41
+[01:23:29] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[01:23:29] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[01:23:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:23:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:23:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:23:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:23:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:23:30] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[01:23:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:23:30] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[01:23:30] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[01:23:30] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.world.World (amu)...
+[01:23:30] [main/INFO] [Hammer Core [ASM]]:   -Patching World
+[01:23:30] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'k', replaced nx.e()V with HC call.
+[01:23:30] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.com.zeitheron.hammercore.asm.HammerCoreTransformer' was detected and will no longer process meta class data
+[01:23:30] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.sereneseasons.asm.transformer.WorldTransformer' was detected and will no longer process meta class data
+[01:23:30] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.world.World (amu)...
+[01:23:30] [main/INFO] [Hammer Core [ASM]]:   -Patching World
+[01:23:30] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'k', replaced nx.e()V with HC call.
+[01:23:30] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.world.WorldServer
+[01:23:31] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.entity.player.EntityPlayer
+[01:23:31] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.entity.EntityLivingBase (vp)...
+[01:23:31] [main/INFO] [Hammer Core [ASM]]:   -Patching EntityLivingBase
+[01:23:31] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'onItemUseFinish': added event call.
+[01:23:31] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.entity.EntityLivingBase
+[01:23:31] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[01:23:31] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[01:23:31] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.block.Block
+[01:23:31] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.entity.item.EntityItem (acl)...
+[01:23:31] [main/INFO] [Hammer Core [ASM]]:   -Patching EntityItem
+[01:23:31] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'attackEntityFrom': added event call.
+[01:23:31] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.block.state.BlockStateContainer$StateImplementation
+[01:23:31] [main/INFO] [BetterFps]: Patching math utils with "RIVENS" algorithm
+[01:23:32] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
+[01:23:32] [main/INFO] [BetterFps]: Patching net.minecraft.block.BlockHopper... (arl)
+[01:23:32] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
+[01:23:33] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.item.ItemSlab
+[01:23:33] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.item.ItemSpade
+[01:23:33] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.entity.monster.EntityEnderman$AITakeBlock
+[01:23:33] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.entity.ai.EntityAIEatGrass
+[01:23:33] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.entity.passive.EntityRabbit$AIRaidFarm
+[01:23:33] [main/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.entity.ai.EntityAIHarvestFarmland
+[01:23:34] [main/INFO] [BetterFps]: Patching net.minecraft.server.dedicated.DedicatedServer... (nz)
+[01:23:34] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.profiler.Profiler (rl)...
+[01:23:34] [main/INFO] [Hammer Core [ASM]]:   -Patched startSection!
+[01:23:34] [main/INFO] [Hammer Core [ASM]]:   -Patched endSection!
+[01:23:34] [main/INFO] [Hammer Core [ASM]]:   -Patched endStartSection!
+[01:23:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[01:23:35] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[01:23:35] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[01:23:35] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[01:23:35] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[01:23:35] [Server thread/INFO] [FML]: Searching C:\Users\Aleksey\AppData\Roaming\.minecraft\versions\KavoAndSho\saves\KavoAndSho\.\mods for mods
+[01:23:35] [Server thread/WARN] [FML]: Mod bettermineshafts is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.1.1
+[01:23:36] [Server thread/WARN] [FML]: Mod botanianeedsit is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-3.0-release
+[01:23:37] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[01:23:37] [Server thread/INFO] [FML]: Disabling mod jeresources it is client side only.
+[01:23:37] [Server thread/INFO] [FML]: Disabling mod llor it is client side only.
+[01:23:37] [Server thread/WARN] [FML]: Mod patchouli is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0-23.6
+[01:23:37] [Server thread/INFO] [FML]: Disabling mod thaumicjei it is client side only.
+[01:23:37] [Server thread/INFO] [FML]: Disabling mod wailaharvestability it is client side only.
+[01:23:38] [Server thread/INFO] [FML]: Forge Mod Loader has identified 55 mods to load
+[01:23:38] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[01:23:38] [Server thread/WARN] [FML]: Missing English translation for alcatrazcore: assets/alcatrazcore/lang/en_us.lang
+[01:23:38] [Server thread/WARN] [FML]: Missing English translation for bettercaves: assets/bettercaves/lang/en_us.lang
+[01:23:38] [Server thread/WARN] [FML]: Missing English translation for bettermineshafts: assets/bettermineshafts/lang/en_us.lang
+[01:23:38] [Server thread/WARN] [FML]: Missing English translation for castle_dungeons: assets/castle_dungeons/lang/en_us.lang
+[01:23:38] [Server thread/WARN] [FML]: Missing English translation for chameleon: assets/chameleon/lang/en_us.lang
+[01:23:38] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
+[01:23:38] [Server thread/WARN] [FML]: Missing English translation for containerfix: assets/containerfix/lang/en_us.lang
+[01:23:38] [Server thread/WARN] [FML]: Missing English translation for craftstudioapi: assets/craftstudioapi/lang/en_us.lang
+[01:23:38] [Server thread/WARN] [FML]: Missing English translation for dummycore: assets/dummycore/lang/en_us.lang
+[01:23:38] [Server thread/WARN] [FML]: Missing English translation for forgeendertech: assets/forgeendertech/lang/en_us.lang
+[01:23:38] [Server thread/WARN] [FML]: Missing English translation for libraryex: assets/libraryex/lang/en_us.lang
+[01:23:38] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[01:23:38] [Server thread/WARN] [FML]: Missing English translation for roguelike: assets/roguelike/lang/en_us.lang
+[01:23:38] [Server thread/WARN] [FML]: Missing English translation for ruins: assets/ruins/lang/en_us.lang
+[01:23:38] [Server thread/WARN] [FML]: Missing English translation for thaumicwaila: assets/thaumicwaila/lang/en_us.lang
+[01:23:38] [Server thread/WARN] [FML]: Missing English translation for phosphor-lighting: assets/phosphor-lighting/lang/en_us.lang
+[01:23:38] [Server thread/INFO] [FML]: FML has found a non-mod file JustEnoughResources_1.12.2_0.9.2.60.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[01:23:38] [Server thread/INFO] [FML]: FML has found a non-mod file lloverlayreloaded-1.1.6-mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[01:23:38] [Server thread/INFO] [FML]: FML has found a non-mod file ThaumicJEI-1.12.2-1.6.0-27.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[01:23:38] [Server thread/INFO] [FML]: FML has found a non-mod file WailaHarvestability_mc1.12_1.1.12.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[01:23:38] [Server thread/INFO] [FML]: FML has found a non-mod file core-3.6.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[01:23:38] [Server thread/INFO] [FML]: FML has found a non-mod file json-3.6.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[01:23:38] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, alcatrazcore, applecore, aquaculture, backpack, baubles, bettercaves, bettermineshafts, biomesoplenty, bookshelf, botania, botanianeedsit, botanicadds, carryon, castle_dungeons, chameleon, clumps, containerfix, corpse, craftstudioapi, dimdoors, dummycore, eplus, endores, endreborn, extrabotany, forgeendertech, grimoireofgaia, hammercore, waila, inventorytweaks, ironchest, jei, libraryex, mantle, naturescompass, netherex, patchouli, roguelike, ruins, sereneseasons, storagedrawers, stygian, thaumcraft, thaumadditions, thaumicaugmentation, thaumicbases, thaumictinkerer, thaumicwaila, twilightforest, orelib, phosphor-lighting] at CLIENT
+[01:23:38] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, alcatrazcore, applecore, aquaculture, backpack, baubles, bettercaves, bettermineshafts, biomesoplenty, bookshelf, botania, botanianeedsit, botanicadds, carryon, castle_dungeons, chameleon, clumps, containerfix, corpse, craftstudioapi, dimdoors, dummycore, eplus, endores, endreborn, extrabotany, forgeendertech, grimoireofgaia, hammercore, waila, inventorytweaks, ironchest, jei, libraryex, mantle, naturescompass, netherex, patchouli, roguelike, ruins, sereneseasons, storagedrawers, stygian, thaumcraft, thaumadditions, thaumicaugmentation, thaumicbases, thaumictinkerer, thaumicwaila, twilightforest, orelib, phosphor-lighting] at SERVER
+[01:23:39] [Server thread/ERROR] [FML]: The mod backpack is expecting signature @FINGERPRINT@ for source backpack_3.0.2_1.12.2.jar, however there is no signature matching that description
+[01:23:39] [Server thread/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.network.NetHandlerPlayServer
+[01:23:40] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[01:23:41] [Server thread/INFO] [thaumadditions]: You are running general public build 12.7.8@bc-270518. You're fine! ;)
+[01:23:41] [Server thread/INFO] [thaumicaugmentationcore]: Successfully transformed class thaumcraft.common.entities.EntityFluxRift
+[01:23:41] [Server thread/INFO] [thaumicaugmentationcore]: Successfully transformed class thaumcraft.common.items.casters.foci.FocusMediumTouch
+[01:23:42] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[01:23:42] [Server thread/INFO] [FML]: Found 2168 ObjectHolder annotations
+[01:23:42] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[01:23:42] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[01:23:42] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[01:23:42] [Forge Version Check/INFO] [forge.VersionCheck]: [hammercore] Starting version check at http://dccg.herokuapp.com/api/fmluc/247401
+[01:23:42] [Server thread/INFO] [thaumicaugmentationcore]: Successfully transformed class baubles.api.cap.BaublesContainer
+[01:23:42] [Forge Version Check/INFO] [forge.VersionCheck]: [hammercore] Found status: UP_TO_DATE Target: null
+[01:23:42] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
+[01:23:43] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[01:23:53] [Server thread/WARN] [biomesoplenty]: There was an issue retrieving trail info from remote!
+[01:23:54] [Forge Version Check/INFO] [forge.VersionCheck]: [thaumadditions] Starting version check at https://dccg.herokuapp.com/api/fmluc/232564
+[01:23:54] [Forge Version Check/INFO] [forge.VersionCheck]: [thaumadditions] Found status: UP_TO_DATE Target: null
+[01:23:54] [Forge Version Check/INFO] [forge.VersionCheck]: [craftstudioapi] Starting version check at https://leviathan-studio.com/craftstudioapi/update.json
+[01:23:56] [Server thread/INFO] [HammerCore]: Added "org.zeith.thaumicadditions.config.ConfigsTAR" to Hammer Core Simple Configs.
+[01:23:56] [Server thread/INFO] [HammerCore]: Added "com.zeitheron.hammercore.cfg.HammerCoreConfigs" to Hammer Core Simple Configs.
+[01:23:56] [Server thread/INFO] [HammerCore]: Added "org.zeith.thaumicadditions.events.LivingEventsTAR@d103385" to MCF Event Bus.
+[01:23:56] [Server thread/INFO] [HammerCore]: Added "org.zeith.thaumicadditions.init.KnowledgeTAR@31a2e79b" to MCF Event Bus.
+[01:23:56] [Server thread/INFO] [HammerCore]: Added "com.zeitheron.hammercore.specials.Zeitheron.ZeitheronGlobEvents@5c0b2ca0" to MCF Event Bus.
+[01:23:56] [Server thread/INFO] [HammerCore]: Added "org.zeith.thaumicadditions.seals.SealChunkLoader@60c303de" to MCF Event Bus.
+[01:23:56] [Server thread/INFO] [HammerCore]: Added "com.zeitheron.hammercore.world.gen.WorldRetroGen@426d9d8c" to MCF Event Bus.
+[01:23:56] [Server thread/INFO] [HammerCore]: Added "org.zeith.thaumicadditions.utils.ThaumicScheduler@318c3ac8" to MCF Event Bus.
+[01:23:56] [Server thread/INFO] [HammerCore]: Added "com.zeitheron.hammercore.HammerCore@666666" to MCF Event Bus.
+[01:23:56] [Server thread/INFO] [HammerCore]: Added 7 object to MCF Event Bus.
+[01:23:57] [Server thread/INFO] [endreborn]: endreborn has skipped compatibility for mod Tinkers' Construct.
+[01:23:57] [Server thread/INFO] [extrabotany]: Welcome to the World of the supreme principle of Mana
+[01:23:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `season_sensor`, expected `sereneseasons`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:57] [Server thread/INFO] [thaumadditions]: [SOUNDS] Registered sound thaumadditions:rune_set
+[01:23:57] [Server thread/INFO] [thaumadditions]: [SOUNDS] Registered sound thaumadditions:popen
+[01:23:57] [Server thread/INFO] [thaumadditions]: [SOUNDS] Registered sound thaumadditions:pclose
+[01:23:57] [Server thread/INFO] [thaumadditions]: [SOUNDS] Registered sound thaumadditions:fizz
+[01:23:57] [Server thread/INFO] [thaumadditions]: [SOUNDS] Registered sound thaumadditions:shadow_beam
+[01:23:57] [Server thread/INFO] [thaumadditions]: [SOUNDS] Registered sound thaumadditions:essentia_pistol_shoot
+[01:23:57] [Server thread/INFO] [thaumadditions]: [SOUNDS] Registered sound thaumadditions:mithminite_scythe
+[01:23:57] [Server thread/INFO] [thaumicaugmentationcore]: Successfully transformed class thaumcraft.common.items.armor.ItemVoidRobeArmor
+[01:23:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `thaumicbases.overchanter`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `thaumicbases.campfire`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `thaumicbases.brazier`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `thaumicbases.eldritchbane`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `thaumicbases.elderknowledge`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `thaumicbases.tainted`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:58] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Baubles.
+[01:23:58] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
+[01:23:58] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
+[01:23:58] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
+[01:23:58] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
+[01:23:58] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
+[01:23:58] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Thaumcraft.
+[01:23:58] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
+[01:23:59] [Server thread/INFO] [thaumicaugmentationcore]: Successfully transformed class thaumcraft.common.tiles.crafting.TileInfusionMatrix
+[01:23:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.advanced.table`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.decorative.book`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `botania` for name `specialflower`, expected `extrabotany`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:59] [Server thread/INFO] [grimoireofgaia]: Registering blocks...
+[01:23:59] [Server thread/INFO] [grimoireofgaia]: Block registration complete.
+[01:23:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[01:23:59] [Server thread/INFO] [STDOUT]: [fluke.stygian.block.fluid.ModFluids:registerFluids:23]: Registering acid
+[01:24:00] [Server thread/INFO] [FML]: Applying holder lookups
+[01:24:00] [Server thread/INFO] [FML]: Holder lookups applied
+[01:24:00] [Server thread/INFO] [Backpack]: Loading items...
+[01:24:00] [Server thread/INFO] [Backpack]: 15 item features loaded.
+[01:24:00] [Server thread/INFO] [STDOUT]: [workbench.botanianeedsit.BotaniaNeedsTheseThings:registerItems:57]: Block{botanianeedsit:mana_charger}
+[01:24:00] [Server thread/INFO] [grimoireofgaia]: Registering items...
+[01:24:00] [Server thread/INFO] [grimoireofgaia]: Item registration complete.
+[01:24:00] [Server thread/INFO] [grimoireofgaia]: Registering item blocks...
+[01:24:00] [Server thread/INFO] [grimoireofgaia]: Item block registration complete.
+[01:24:00] [Server thread/INFO] [FML]: Applying holder lookups
+[01:24:01] [Server thread/INFO] [FML]: Holder lookups applied
+[01:24:01] [Server thread/INFO] [thaumicaugmentationcore]: Successfully transformed class thaumcraft.common.entities.monster.EntityEldritchGuardian
+[01:24:01] [Server thread/INFO] [grimoireofgaia]: Registering entities...
+[01:24:01] [Server thread/INFO] [grimoireofgaia]: Entity registration complete.
+[01:24:01] [Server thread/INFO] [grimoireofgaia]: Registering Sounds
+[01:24:01] [Server thread/INFO] [grimoireofgaia]: Sounds Finished
+[01:24:01] [Server thread/INFO] [FML]: Applying holder lookups
+[01:24:01] [Server thread/INFO] [FML]: Holder lookups applied
+[01:24:01] [Server thread/INFO] [FML]: Applying holder lookups
+[01:24:01] [Server thread/INFO] [FML]: Holder lookups applied
+[01:24:01] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:24:01] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:24:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[01:24:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[01:24:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[01:24:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[01:24:02] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[01:24:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:24:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[01:24:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:24:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:24:03] [Server thread/INFO] [Backpack]: Loading recipes...
+[01:24:03] [Server thread/INFO] [Backpack]: 15 recipe features loaded.
+[01:24:03] [Server thread/INFO] [THAUMCRAFT]: Checking for mod & oredict compatibilities
+[01:24:03] [Server thread/INFO] [THAUMCRAFT]: Adding entities to MFR safari net blacklist.
+[01:24:03] [Server thread/INFO] [thaumicaugmentationcore]: Successfully transformed class thaumcraft.common.lib.crafting.InfusionRunicAugmentRecipe
+[01:24:03] [Server thread/INFO] [com.zeitheron.hammercore.utils.ForgeRegistryUtils]: Removed entry "botania:spreader_3" from registry of net.minecraft.item.crafting.IRecipe. Info: Alias - "null"; Overrides removed: 0; ID: 1239; OverrideOwner: net.minecraftforge.registries.ForgeRegistry$OverrideOwner@f5dda704; Registry Slaves: [forge:registry_defaulted_wrapper]
+[01:24:03] [Server thread/INFO] [grimoireofgaia]: Registering recipes...
+[01:24:03] [Server thread/INFO] [grimoireofgaia]: Recipe registration complete.
+[01:24:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `nether_brick_fence`, expected `netherex`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:03] [Server thread/INFO] [thaumictinkerer]: Hi Botania, we have unfinished business you and I
+[01:24:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `thaumadditions` for name `essence_salt.mix`, expected `hammercore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `thaumadditions` for name `essence_salt.apply`, expected `hammercore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `thaumadditions` for name `essence_salt.remove`, expected `hammercore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `thaumadditions` for name `seal_paint`, expected `hammercore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `thaumadditions` for name `phantom_ink.apply`, expected `hammercore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `thaumadditions` for name `phantom_ink.remove`, expected `hammercore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `thaumadditions` for name `disenchant`, expected `hammercore`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:03] [Server thread/INFO] [FML]: Applying holder lookups
+[01:24:03] [Server thread/INFO] [FML]: Holder lookups applied
+[01:24:04] [Server thread/INFO] [dimdoors]: Loaded 156 templates in 25 ms.
+[01:24:04] [Server thread/INFO] [chameleon]: Could not load integration module: com.jaquadro.minecraft.storagedrawers.integration.Thaumcraft
+[01:24:04] [Server thread/INFO] [thaumadditions]: Registering seals...
+[01:24:04] [Server thread/INFO] [thaumadditions]:  -Aqua, None, None...
+[01:24:04] [Server thread/INFO] [thaumadditions]:  -Terra, Terra, Terra...
+[01:24:04] [Server thread/INFO] [thaumadditions]:  -Victus, Herba, None...
+[01:24:04] [Server thread/INFO] [thaumadditions]:  -Instrumentum, Herba, None...
+[01:24:04] [Server thread/INFO] [thaumadditions]:  -Instrumentum, Herba, Ordo...
+[01:24:04] [Server thread/INFO] [thaumadditions]:  -Vacuos, Vacuos, Vacuos...
+[01:24:04] [Server thread/INFO] [thaumadditions]:  -Praecantatio, Aer, Any...
+[01:24:04] [Server thread/INFO] [thaumadditions]: -Registered 7 seals.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `thaumcraft` for name `stairsancient`, expected `thaumicaugmentation`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldcobble`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldcobblemossy`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldgravel`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldbrick`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldlapis`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldiron`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldgold`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decoolddiamond`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.smb`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.smbreturn`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.ironspike`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.thaumspike`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.voidspike`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.bchest`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.blegs`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.bboots`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.mortal`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.camp`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.braizer`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.greatpipe`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.syrop`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.relax`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.hunger`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[01:24:04] [Server thread/INFO] [thaumictinkerer]: Initializing Telekenetic powers
+[01:24:04] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:24:04] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:24:05] [Server thread/INFO] [grimoireofgaia]: Registering Item Aspects
+[01:24:05] [Server thread/INFO] [grimoireofgaia]: Registering Entity Aspects
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 5 research entries from thaumcraft:research/eldritch
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 2 research entries from thaumictinkerer:research/foci
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/basics
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 12 research entries from thaumcraft:research/scans
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 8 research entries from thaumicaugmentation:research/casting.json
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/artifice
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 0 research entries from thaumictinkerer:research/baubles
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 6 research entries from thaumictinkerer:research/misc
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 6 research entries from thaumictinkerer:research/machines
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 1 research entries from thaumicaugmentation:research/ward_foci_coremod.json
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 29 research entries from thaumcraft:research/golemancy
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 6 research entries from thaumicaugmentation:research/baubles.json
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 8 research entries from thaumicaugmentation:research/warded.json
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 5 research entries from thaumicaugmentation:research/construct.json
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 10 research entries from thaumicaugmentation:research/impetus.json
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 5 research entries from thaumicaugmentation:research/gear.json
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 22 research entries from thaumcraft:research/alchemy
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 14 research entries from thaumicaugmentation:research/void.json
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 23 research entries from thaumcraft:research/auromancy
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 1 research entries from thaumicaugmentation:research/alchemy.json
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 4 research entries from thaumicaugmentation:research/foci.json
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 17 research entries from thaumcraft:research/infusion
+[01:24:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 4 research entries from thaumicaugmentation:research/misc.json
+[01:24:05] [Server thread/INFO] [botania]: The Lexica Botania has 30924 words.
+[01:24:05] [Server thread/INFO] [STDOUT]: [net.puffish.castle.CastleDungeons:postInit:50]: Themes loaded: 2
+[01:24:05] [Server thread/INFO] [STDOUT]: [net.puffish.castle.CastleDungeons:postInit:51]: Chests loaded: true
+[01:24:05] [Server thread/INFO] [STDOUT]: [net.puffish.castle.CastleDungeons:postInit:52]: Config loaded: true
+[01:24:05] [Server thread/INFO] [extrabotany]: =============================================================================================
+[01:24:05] [Server thread/INFO] [extrabotany]: *  _______   ___  ___   ___________    _______         __                                   *
+[01:24:05] [Server thread/INFO] [extrabotany]: * /"     "| |"  \/"  | ("     _   ")  /"      \       /""\                                  *
+[01:24:05] [Server thread/INFO] [extrabotany]: *(: ______)  \   \  /   )__/  \\__/  |:        |     /    \                                 *
+[01:24:05] [Server thread/INFO] [extrabotany]: * \/    |     \\  \/       \\_ /     |_____/   )    /' /\  \                                *
+[01:24:05] [Server thread/INFO] [extrabotany]: * // ___)_    /\.  \       |.  |      //      /    //  __'  \                               *
+[01:24:05] [Server thread/INFO] [extrabotany]: *(:      "|  /  \   \      \:  |     |:  __   \   /   /  \\  \                              *
+[01:24:05] [Server thread/INFO] [extrabotany]: * \_______) |___/\___|      \__|     |__|  \___) (___/    \___)                             *
+[01:24:05] [Server thread/INFO] [extrabotany]: *           _______       ______     ___________        __       _____  ___    ___  ___       *
+[01:24:05] [Server thread/INFO] [extrabotany]: *          |   _  "\     /    " \   ("     _   ")      /""\     (\"   \|"  \  |"  \/"  | 	  *
+[01:24:05] [Server thread/INFO] [extrabotany]: *          (. |_)  :)   // ____  \   )__/  \\__/      /    \    |.\\   \    |  \   \  /  	  *
+[01:24:05] [Server thread/INFO] [extrabotany]: *          |:     \/   /  /    ) :)     \\_ /        /' /\  \   |: \.   \\  |   \\  \/   	  *
+[01:24:05] [Server thread/INFO] [extrabotany]: *          (|  _  \\  (: (____/ //      |.  |       //  __'  \  |.  \    \. |   /   /    	  *
+[01:24:05] [Server thread/INFO] [extrabotany]: *          |: |_)  :)  \        /       \:  |      /   /  \\  \ |    \    \ |  /   /     	  *
+[01:24:05] [Server thread/INFO] [extrabotany]: *          (_______/    \"_____/         \__|     (___/    \___) \___|\____\) |___/      	  *
+[01:24:05] [Server thread/INFO] [extrabotany]: =============================================================================================
+[01:24:05] [Server thread/INFO] [extrabotany]: *Thank you for installing ExtraBotany!                                                      *
+[01:24:05] [Server thread/INFO] [extrabotany]: *Owner: ExtraMeteorP                                                                        *
+[01:24:05] [Server thread/INFO] [extrabotany]: *Artist: MalayP, Gloridifice                                                                *
+[01:24:05] [Server thread/INFO] [extrabotany]: *No more anime girl                                                                         *
+[01:24:05] [Server thread/INFO] [extrabotany]: *Yes this is a spam                                                                         *
+[01:24:05] [Server thread/INFO] [extrabotany]: *If you want to disable it, check your config settings                                      *
+[01:24:05] [Server thread/INFO] [extrabotany]: =============================================================================================
+[01:24:05] [Server thread/INFO] [extrabotany]:  .____         .                 __   __         .                        .___ 
+[01:24:05] [Server thread/INFO] [extrabotany]:  /      _  .- _/_   .___    ___  |    |    ___  _/_     ___    __.  .___  /   \
+[01:24:05] [Server thread/INFO] [extrabotany]:  |__.    \,'   |    /   \  /   ` |\  /|  .'   `  |    .'   ` .'   \ /   \ |,_-'
+[01:24:05] [Server thread/INFO] [extrabotany]:  |       /\    |    |   ' |    | | \/ |  |----'  |    |----' |    | |   ' |    
+[01:24:05] [Server thread/INFO] [extrabotany]:  /----/ /  \   \__/ /     `.__/| /    /  `.___,  \__/ `.___,  `._.' /     /    
+[01:24:05] [Server thread/INFO] [extrabotany]:                                                                                
+[01:24:05] [Server thread/INFO] [extrabotany]: 					 .___                                     .                _    
+[01:24:05] [Server thread/INFO] [extrabotany]: 					 /   \ .___    ___    ____   ___  , __   _/_     ___    ___/  
+[01:24:05] [Server thread/INFO] [extrabotany]: 					 |,_-' /   \ .'   `  (     .'   ` |'  `.  |    .'   `  /   |  
+[01:24:05] [Server thread/INFO] [extrabotany]: 					 |     |   ' |----'  `--.  |----' |    |  |    |----' ,'   |  
+[01:24:05] [Server thread/INFO] [extrabotany]: 					 /     /     `.___, \___.' `.___, /    |  \__/ `.___, `___,'  
+[01:24:05] [Server thread/INFO] [extrabotany]: 																			   `   
+[01:24:05] [Server thread/INFO] [extrabotany]: =============================================================================================
+[01:24:05] [Forge Version Check/INFO] [forge.VersionCheck]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[01:24:05] [Server thread/INFO] [thaumicaugmentation]: The following mods were detected and have integration enabled:
+[01:24:05] [Server thread/INFO] [thaumicaugmentation]: botania
+[01:24:05] [Server thread/INFO] [Waila]: Starting Waila...
+[01:24:05] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[01:24:06] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[01:24:06] [Server thread/INFO] [Waila]: Registering plugins...
+[01:24:06] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[01:24:06] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[01:24:06] [Server thread/INFO] [Waila]: Registering plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[01:24:06] [Server thread/ERROR] [Waila]: Error registering wrapped plugin from storagedrawers at com.jaquadro.minecraft.storagedrawers.integration.Waila.registerProvider
+[01:24:06] [Server thread/INFO] [Waila]: Registering plugin at com.zeitheron.hammercore.compat.waila.GetWaila
+[01:24:06] [Server thread/INFO] [HammerCore]: Waila API hooked!
+[01:24:06] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[01:24:06] [Server thread/INFO] [Waila]: Registering plugin at me.xfl03.thaumicwaila.provider.AspectContainerProvider
+[01:24:06] [Server thread/INFO] [ThaumicWaila]: AspectContainerProvider registered.
+[01:24:06] [Server thread/INFO] [Waila]: Registering plugin at me.xfl03.thaumicwaila.provider.BlockVisBatteryProvider
+[01:24:06] [Server thread/INFO] [ThaumicWaila]: BlockVisBatteryProvider registered.
+[01:24:06] [Server thread/INFO] [Waila]: Registering plugin at me.xfl03.thaumicwaila.provider.GogglesDisplayProvider
+[01:24:06] [Server thread/INFO] [ThaumicWaila]: GogglesDisplayProvider registered.
+[01:24:06] [Server thread/INFO] [Waila]: Registering plugin at me.xfl03.thaumicwaila.provider.StabilizableProvider
+[01:24:06] [Server thread/INFO] [ThaumicWaila]: StabilizableProvider registered.
+[01:24:06] [Server thread/INFO] [Waila]: Registering plugin at me.xfl03.thaumicwaila.render.AspectRender
+[01:24:06] [Server thread/INFO] [ThaumicWaila]: AspectRender registered.
+[01:24:06] [Server thread/INFO] [Waila]: Starting Waila took 66.25 ms
+[01:24:06] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[01:24:06] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 55 mods
+[01:24:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[01:24:06] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[01:24:06] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
+[01:24:06] [Forge Version Check/INFO] [forge.VersionCheck]: [botanicadds] Starting version check at http://dccg.herokuapp.com/api/fmluc/310637
+[01:24:06] [Forge Version Check/INFO] [forge.VersionCheck]: [botanicadds] Found status: BETA Target: null
+[01:24:06] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
+[01:24:06] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
+[01:24:06] [Server thread/INFO] [FML]: Applying holder lookups
+[01:24:06] [Server thread/INFO] [FML]: Holder lookups applied
+[01:24:06] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[01:24:06] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[01:24:06] [Server thread/INFO] [thaumicaugmentationcore]: Successfully transformed class net.minecraft.world.WorldServer
+[01:24:06] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:89]: ChunkGeneratorOverworldBOP json: 
+[01:24:06] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:96]: ChunkGeneratorOverworldBOP settings: {"landScheme":"vanilla","tempScheme":"medium_zones","rainScheme":"medium_zones","biomeSize":"medium","amplitude":1.0,"generateBopOre":true,"generatePoisonIvy":false,"generateBerryBushes":true,"generateThorns":true,"generateQuicksand":true,"generateLiquidPoison":true,"generateHotSprings":true,"generateNetherHives":true,"generateEndFeatures":true,"mainNoiseScaleX":80.0,"mainNoiseScaleY":160.0,"mainNoiseScaleZ":80.0,"coordinateScale":684.412,"heightScale":684.412,"upperLimitScale":512.0,"lowerLimitScale":512.0}
+[01:24:07] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[01:24:07] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 1022 advancements
+[01:24:07] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 0
+[01:24:08] [Server thread/INFO] [NetherEx]: Creating Nether biome data configs.
+[01:24:08] [Server thread/INFO] [NetherEx]: Reading Nether biome data configs.
+[01:24:08] [Server thread/INFO] [NetherEx]: Creating Pigtificate trade configs.
+[01:24:08] [Server thread/INFO] [NetherEx]: Reading Pigtificate trade configs.
+[01:24:08] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[01:24:08] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[01:24:08] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[01:24:08] [Server thread/INFO] [FML]: Loading dimension 684 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[01:24:08] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 684
+[01:24:08] [Server thread/INFO] [FML]: Loading dimension 685 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[01:24:08] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 685
+[01:24:08] [Server thread/INFO] [FML]: Loading dimension 686 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[01:24:08] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 686
+[01:24:08] [Server thread/INFO] [FML]: Loading dimension 687 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[01:24:08] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 687
+[01:24:08] [Server thread/INFO] [FML]: Loading dimension 688 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[01:24:08] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 688
+[01:24:08] [Server thread/INFO] [FML]: Loading dimension 14676 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[01:24:08] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 14676
+[01:24:09] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[01:24:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 1
+[01:24:09] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[01:24:09] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 7
+[01:24:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[01:24:10] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class de.maxhenkel.corpse.entities.EntityCorpse from class de.maxhenkel.corpse.entities.EntityCorpseInventoryBase
+[01:24:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 8%
+[01:24:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 76%
+[01:24:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (5,398s)! For help, type "help" or "?"
+[01:24:11] [Server thread/INFO] [HammerCore]: Registering raytrace plugin: com.zeitheron.hammercore.internal.blocks.multipart.HammerCoreRaytracePlugin ...
+[01:24:11] [Server thread/INFO] [HammerCore]: Registered raytrace  plugin: com.zeitheron.hammercore.internal.blocks.multipart.HammerCoreRaytracePlugin in 0 ms
+[01:24:11] [Server thread/INFO] [NetherEx]: The Nether has been overridden.
+[01:24:11] [Thread-16/INFO] [THAUMCRAFT]: Starting aura thread for dim 0
+[01:24:12] [Thread-17/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[01:24:12] [Thread-18/INFO] [THAUMCRAFT]: Starting aura thread for dim 684
+[01:24:12] [Thread-19/INFO] [THAUMCRAFT]: Starting aura thread for dim 685
+[01:24:12] [Thread-20/INFO] [THAUMCRAFT]: Starting aura thread for dim 686
+[01:24:12] [Thread-21/INFO] [THAUMCRAFT]: Starting aura thread for dim 687
+[01:24:12] [Thread-22/INFO] [THAUMCRAFT]: Starting aura thread for dim 688
+[01:24:12] [Thread-23/INFO] [THAUMCRAFT]: Starting aura thread for dim 14676
+[01:24:12] [Thread-24/INFO] [THAUMCRAFT]: Starting aura thread for dim 1
+[01:24:12] [Thread-25/INFO] [THAUMCRAFT]: Starting aura thread for dim 7
+[01:24:12] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[01:24:12] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:24:12] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 684
+[01:24:12] [Server thread/INFO] [FML]: Unloading dimension 684
+[01:24:12] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 685
+[01:24:12] [Server thread/INFO] [FML]: Unloading dimension 685
+[01:24:12] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 686
+[01:24:12] [Server thread/INFO] [FML]: Unloading dimension 686
+[01:24:12] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 687
+[01:24:12] [Server thread/INFO] [FML]: Unloading dimension 687
+[01:24:12] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 688
+[01:24:12] [Server thread/INFO] [FML]: Unloading dimension 688
+[01:24:12] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 14676
+[01:24:12] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: Not a JSON Object: null
+[01:24:12] [Server thread/INFO] [FML]: Unloading dimension 14676
+[01:24:12] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 1
+[01:24:13] [Server thread/INFO] [FML]: Unloading dimension 1
+[01:24:13] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 7
+[01:24:13] [Server thread/INFO] [FML]: Unloading dimension 7
+[01:24:14] [Thread-17/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[01:24:14] [Thread-18/INFO] [THAUMCRAFT]: Stopping aura thread for dim 684
+[01:24:14] [Thread-19/INFO] [THAUMCRAFT]: Stopping aura thread for dim 685
+[01:24:14] [Thread-20/INFO] [THAUMCRAFT]: Stopping aura thread for dim 686
+[01:24:14] [Thread-21/INFO] [THAUMCRAFT]: Stopping aura thread for dim 687
+[01:24:14] [Thread-22/INFO] [THAUMCRAFT]: Stopping aura thread for dim 688
+[01:24:14] [Thread-23/INFO] [THAUMCRAFT]: Stopping aura thread for dim 14676
+[01:24:14] [Thread-24/INFO] [THAUMCRAFT]: Stopping aura thread for dim 1
+[01:24:14] [Thread-25/INFO] [THAUMCRAFT]: Stopping aura thread for dim 7
+[01:24:57] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 217181
+[01:29:13] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[01:29:13] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 65 mods : alcatrazcore@1.0.4,jei@4.15.0.296,damageindicatorsmod@1.0,endores@1.12.2-r1,craftstudioapi@1.0.0,armorstatushud@1.43.0,bettercaves@1.12.2,forgeendertech@1.12.2-4.5.2.0,thaumicjei@1.6.0,mcp@9.42,hammercore@2.0.6.32,clumps@3.1.2,naturescompass@1.8.5,sereneseasons@1.2.18,chameleon@1.12-4.1.3,bookshelf@2.3.590,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,grimoireofgaia@1.7.2,waila@1.8.26,thaumicwaila@1.12.2-0.0.2,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,botanicadds@12.2.6,forge@14.23.5.2860,ruins@17.1,castle_dungeons@1.3,twilightforest@3.11.1021,phosphor-lighting@1.12.2-0.2.7,thaumadditions@12.7.8,thaumictinkerer@1.12.2-5.0-620a0c5,eplus@5.0.178,orelib@3.6.0.1,corpse@1.12.2-1.0.8,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,dummycore@2.4.112.5.,biomesoplenty@7.0.1.2444,bspkrscore@8.0.0,baubles@1.5.2,applecore@3.2.0,thaumicbases@3.3.500.6r,botania@r1.10-364,llor@1.1.6-mc1.12.2,containerfix@1.0,roguelike@1.7.2,mantle@1.12-1.3.3.55,patchouli@1.0-23.6,libraryex@1.1.3,storagedrawers@5.2.2,endreborn@0.3.8,FML@8.0.99.99,dimdoors@3.0.10,botanianeedsit@1.12.2-3.0-release,extrabotany@60,foamfix@0.10.5-1.12.2,aquaculture@1.6.8,thaumicaugmentation@1.12.2-2.1.7,backpack@3.0.2,bettermineshafts@1.12.2-2.1.1,netherex@2.1.8,wailaharvestability@1.1.12,stygian@1.0.4
+[01:29:14] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:29:14] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lupizdrik_2[/127.0.0.1:54710] logged in with entity id 523 at (-7782.188868707361, 67.0, -4376.77588561242)
+[01:29:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lupizdrik_2 joined the game
+[01:29:15] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lupizdrik_2'/523, l='world', x=-7782,19, y=67,00, z=-4376,78] connected. Sending ping
+[01:35:38] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[01:35:38] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 7
+[01:35:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lupizdrik_2 moved too quickly! 3.181078613345562,-61.0,-1.5860202056064736
+[01:35:40] [Thread-87/INFO] [THAUMCRAFT]: Starting aura thread for dim 7
+[01:35:42] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2371ms behind, skipping 47 tick(s)
+[01:36:38] [Server thread/WARN] [FML]: Castle Dungeons loaded a new chunk [-473, -292] in dimension 7 (twilight_forest) while populating chunk [-472, -291], causing cascading worldgen lag.
+[01:36:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:36:38] [Server thread/WARN] [FML]: Castle Dungeons loaded a new chunk [-473, -293] in dimension 7 (twilight_forest) while populating chunk [-472, -291], causing cascading worldgen lag.
+[01:36:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:36:38] [Server thread/WARN] [FML]: Castle Dungeons loaded a new chunk [-472, -292] in dimension 7 (twilight_forest) while populating chunk [-472, -291], causing cascading worldgen lag.
+[01:36:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:36:39] [Server thread/WARN] [FML]: Castle Dungeons loaded a new chunk [-472, -293] in dimension 7 (twilight_forest) while populating chunk [-472, -291], causing cascading worldgen lag.
+[01:36:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:37:25] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-468, -298] in dimension 7 (twilight_forest) while populating chunk [-468, -297], causing cascading worldgen lag.
+[01:37:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:39:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lupizdrik_2 moved too quickly! -0.1076359021872122,61.0,2.847321857798306
+[01:39:57] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 7
+[01:39:58] [Server thread/INFO] [FML]: Unloading dimension 7
+[01:39:58] [Thread-87/INFO] [THAUMCRAFT]: Stopping aura thread for dim 7
+[01:41:28] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[01:41:28] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 7
+[01:41:29] [Thread-112/INFO] [THAUMCRAFT]: Starting aura thread for dim 7
+[01:41:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lupizdrik_2 moved too quickly! 3.0535474711386996,-61.0,-2.3907659315864294
+[01:42:31] [Server thread/INFO] [FML]: Loading dimension 684 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[01:42:31] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 684
+[01:42:31] [Server thread/INFO] [FML]: Loading dimension 685 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[01:42:31] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 685
+[01:42:31] [Server thread/INFO] [FML]: Loading dimension 686 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[01:42:31] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 686
+[01:42:31] [Server thread/INFO] [FML]: Loading dimension 687 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[01:42:31] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 687
+[01:42:32] [Server thread/INFO] [FML]: Loading dimension 688 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[01:42:32] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 688
+[01:42:32] [Server thread/INFO] [FML]: Loading dimension 14676 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[01:42:32] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 14676
+[01:42:32] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[01:42:32] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 1
+[01:42:32] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[01:42:32] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[01:42:32] [Thread-124/INFO] [THAUMCRAFT]: Starting aura thread for dim 684
+[01:42:32] [Thread-125/INFO] [THAUMCRAFT]: Starting aura thread for dim 685
+[01:42:32] [Thread-126/INFO] [THAUMCRAFT]: Starting aura thread for dim 686
+[01:42:32] [Thread-127/INFO] [THAUMCRAFT]: Starting aura thread for dim 687
+[01:42:32] [Thread-128/INFO] [THAUMCRAFT]: Starting aura thread for dim 688
+[01:42:32] [Thread-129/INFO] [THAUMCRAFT]: Starting aura thread for dim 14676
+[01:42:32] [Thread-130/INFO] [THAUMCRAFT]: Starting aura thread for dim 1
+[01:42:32] [Thread-131/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[01:42:32] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 684
+[01:42:32] [Server thread/INFO] [FML]: Unloading dimension 684
+[01:42:32] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 685
+[01:42:32] [Server thread/INFO] [FML]: Unloading dimension 685
+[01:42:32] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 686
+[01:42:32] [Server thread/INFO] [FML]: Unloading dimension 686
+[01:42:32] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 687
+[01:42:32] [Server thread/INFO] [FML]: Unloading dimension 687
+[01:42:32] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 688
+[01:42:32] [Server thread/INFO] [FML]: Unloading dimension 688
+[01:42:32] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 14676
+[01:42:32] [Server thread/INFO] [FML]: Unloading dimension 14676
+[01:42:32] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 1
+[01:42:32] [Server thread/INFO] [FML]: Unloading dimension 1
+[01:42:32] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[01:42:32] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:42:34] [Thread-124/INFO] [THAUMCRAFT]: Stopping aura thread for dim 684
+[01:42:34] [Thread-125/INFO] [THAUMCRAFT]: Stopping aura thread for dim 685
+[01:42:34] [Thread-126/INFO] [THAUMCRAFT]: Stopping aura thread for dim 686
+[01:42:34] [Thread-127/INFO] [THAUMCRAFT]: Stopping aura thread for dim 687
+[01:42:34] [Thread-129/INFO] [THAUMCRAFT]: Stopping aura thread for dim 14676
+[01:42:34] [Thread-130/INFO] [THAUMCRAFT]: Stopping aura thread for dim 1
+[01:42:34] [Thread-128/INFO] [THAUMCRAFT]: Stopping aura thread for dim 688
+[01:42:34] [Thread-131/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[01:45:31] [Server thread/WARN] [FML]: Castle Dungeons loaded a new chunk [-531, -268] in dimension 7 (twilight_forest) while populating chunk [-530, -267], causing cascading worldgen lag.
+[01:45:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:45:31] [Server thread/WARN] [FML]: Castle Dungeons loaded a new chunk [-531, -269] in dimension 7 (twilight_forest) while populating chunk [-530, -267], causing cascading worldgen lag.
+[01:45:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:45:44] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-533, -267] in dimension 7 (twilight_forest) while populating chunk [-532, -267], causing cascading worldgen lag.
+[01:45:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:47:12] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-549, -272] in dimension 7 (twilight_forest) while populating chunk [-548, -271], causing cascading worldgen lag.
+[01:47:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:19:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lupizdrik_2 has reached the goal [Mighty Stroganoff]
+[02:24:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lupizdrik_2 has reached the goal [Hydra Slayer]
+[02:25:52] [Server thread/WARN] [FML]: Castle Dungeons loaded a new chunk [-561, -235] in dimension 7 (twilight_forest) while populating chunk [-560, -234], causing cascading worldgen lag.
+[02:25:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:25:52] [Server thread/WARN] [FML]: Castle Dungeons loaded a new chunk [-561, -234] in dimension 7 (twilight_forest) while populating chunk [-560, -234], causing cascading worldgen lag.
+[02:25:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:33:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lupizdrik_2 moved too quickly! -0.07930810642392316,61.0,-1.0440963854471192
+[02:34:42] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 7
+[02:34:42] [Server thread/INFO] [FML]: Unloading dimension 7
+[02:34:44] [Thread-112/INFO] [THAUMCRAFT]: Stopping aura thread for dim 7
+[02:58:45] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@658b82ee)
+[02:58:45] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 7
+[02:58:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lupizdrik_2 moved too quickly! 2.729766897121408,-61.49520087700593,-2.1952565363344547
+[02:58:47] [Thread-418/INFO] [THAUMCRAFT]: Starting aura thread for dim 7
+[03:12:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lupizdrik_2 has made the advancement [I See Right Through You]
+[03:44:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lupizdrik_2 has made the advancement [The Boots Are Mine!]
+[04:02:27] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-487, -298] in dimension 7 (twilight_forest) while populating chunk [-487, -297], causing cascading worldgen lag.
+[04:02:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lupizdrik_2 has reached the goal [Alpha Fur]
+[04:05:03] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-490, -302] in dimension 7 (twilight_forest) while populating chunk [-490, -301], causing cascading worldgen lag.
+[04:05:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:06:00] [Server thread/WARN] [FML]: Castle Dungeons loaded a new chunk [-500, -295] in dimension 7 (twilight_forest) while populating chunk [-500, -294], causing cascading worldgen lag.
+[04:06:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:06:00] [Server thread/WARN] [FML]: Castle Dungeons loaded a new chunk [-501, -295] in dimension 7 (twilight_forest) while populating chunk [-500, -294], causing cascading worldgen lag.
+[04:06:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:07:32] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-494, -316] in dimension 7 (twilight_forest) while populating chunk [-494, -315], causing cascading worldgen lag.
+[04:07:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:07:39] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-501, -317] in dimension 7 (twilight_forest) while populating chunk [-500, -317], causing cascading worldgen lag.
+[04:07:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:07:39] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-501, -318] in dimension 7 (twilight_forest) while populating chunk [-500, -317], causing cascading worldgen lag.
+[04:07:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:07:43] [Server thread/WARN] [FML]: Castle Dungeons loaded a new chunk [-500, -319] in dimension 7 (twilight_forest) while populating chunk [-499, -318], causing cascading worldgen lag.
+[04:07:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:07:43] [Server thread/WARN] [FML]: Castle Dungeons loaded a new chunk [-499, -319] in dimension 7 (twilight_forest) while populating chunk [-499, -318], causing cascading worldgen lag.
+[04:07:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:15:12] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 7
+[04:15:13] [Server thread/INFO] [FML]: Unloading dimension 7
+[04:15:14] [Thread-418/INFO] [THAUMCRAFT]: Stopping aura thread for dim 7
+[04:25:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lupizdrik_2 has completed the challenge [Naga Armorer]
+[04:28:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lupizdrik_2 lost connection: Disconnected
+[04:28:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lupizdrik_2 left the game
+[04:29:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[04:29:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[04:29:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[04:29:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[04:29:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[04:29:07] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[04:29:08] [Server thread/INFO] [FML]: Unloading dimension 0
+[04:29:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[04:29:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[04:29:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
