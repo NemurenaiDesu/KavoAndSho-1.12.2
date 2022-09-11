@@ -2433,6 +2433,15 @@
     },
     "done": true
   },
+  "twilightforest:arctic_armor_dyed": {
+    "criteria": {
+      "chest": "2022-09-11 21:57:31 +0300",
+      "helmet": "2022-09-11 21:57:31 +0300",
+      "legs": "2022-09-11 21:57:31 +0300",
+      "boots": "2022-09-11 21:57:31 +0300"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "entered_water": "2022-08-20 11:27:15 +0300"
